@@ -4,8 +4,7 @@ theme: jekyll-theme-architect
 gem "github-pages", group: :jekyll_plugins
 # Architect will respect the following variables, if set in your site's _config.yml:
 title: Ning Shi (石宁)
-description: 
-  Yo! Welcome to my academic homepage.
+description: Yo! Welcome to my academic homepage.
 # Additionally, you may choose to set the following optional variables:
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
