@@ -9,8 +9,7 @@ I'm a machine learning engineer at [Learnable](https://www.linkedin.com/company/
 I'm now preparing to apply for a PhD program in 2020 Fall. For any research opportunity in the field of NLP and RL, please contact me. 
 
 # Activities
-## 12/29/2019
-> Birthday of this homepage.
+`12/29/2019` Birthday of this homepage.
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
