@@ -2,7 +2,7 @@
 layout: default
 ---
 # About Me
-My friends like to call me Shining which is the mandarin phonetic symbols of my Chinese name, rather than anything listed [here](https://en.wikipedia.org/wiki/Shining). There are five letters "n" at the end of my account name to avoid being used. This website is still in the building. I'm sorry for any inconvenience.
+My friends like to call me **Shining** which is the mandarin phonetic symbols of my Chinese name, rather than anything listed [here](https://en.wikipedia.org/wiki/Shining). There are five letters "n" at the end of my account name to avoid being used. This website is still in the building. I'm sorry for any inconvenience.
 
 I'm a machine learning engineer at [Learnable](https://www.linkedin.com/company/learnable-ai/about/). I'm also a graduate student learning Applied Data Science in the [School of Information Studies](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu), as well as Computer Science in the [College of Computing](https://cc.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu). I received my M.S. in Management and Systems in the [School of Professional Studies](https://www.sps.nyu.edu/) at [New York University](https://www.nyu.edu), and my Bachelor's degree from [Donghua University](http://english.dhu.edu.cn/).
 
