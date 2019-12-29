@@ -6,7 +6,7 @@ My friends like to call me Shining which is the mandarin phonetic symbols of my 
 
 I'm a machine learning engineer at [Learnable](https://www.linkedin.com/company/learnable-ai/about/). I'm also a graduate student learning Applied Data Science in the [School of Information Studies](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu), as well as Computer Science in the [College of Computing](https://cc.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu). I received my M.S. in Management and Systems in the [School of Professional Studies](https://www.sps.nyu.edu/) at [New York University](https://www.nyu.edu), and my Bachelor's degree from [Donghua University](http://english.dhu.edu.cn/).
 
-I'm now preparing to apply for a PhD program in 2020 Fall. For any research opportunity in the field of NLP and RL, please feel free to contact me via mrshininnnnn**at**gmail**dot**com. 
+I'm now preparing to apply for a PhD program in 2020 Fall. For any research opportunity in the field of NLP and RL, please contact me. 
 
 # Activities
 ## 12/29/2019
