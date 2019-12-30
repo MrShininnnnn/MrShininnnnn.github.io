@@ -50,6 +50,10 @@ author:
   youtube:
   wikipedia:
 
+# Reading Files
+include:
+  - _pages
+
 # Plugins
 plugins:
   - jekyll-paginate
