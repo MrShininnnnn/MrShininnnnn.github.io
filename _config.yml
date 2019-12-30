@@ -1,10 +1,66 @@
-# Add the following to your site's _config.yml:
+# Site Settings
+locale: "en-US"
+title: "Ning Shi (石宁)"
+url: https://mrshininnnnn.github.io/
+repository: "MrShininnnnn/MrShininnnnn.github.io"
 theme: jekyll-theme-architect
-# Optionally, if you'd like to preview your site on your computer, add the following to your site's Gemfile:
 gem "github-pages", group: :jekyll_plugins
-# Architect will respect the following variables, if set in your site's _config.yml:
-title: Ning Shi (石宁)
 description: Yo! Welcome to my academic homepage.
-# Additionally, you may choose to set the following optional variables:
 show_downloads: true
-# google_analytics: [Your Google Analytics tracking ID]
+encoding: "utf-8"
+
+# Analytics
+analytics:
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  google: 
+    tracking_id:
+
+# Site Author
+author: 
+  name: "Ning Shi"
+  avatar:
+  bio:
+  location: "Boston"
+  employer: "Learnable, Inc."
+  googlescholar:
+  email: "mrshininnnnn@gmail.com"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "MrShininnnnn"
+  google_plus:
+  keybase:
+  instagram:
+  lastfm:
+  linkedin: https://www.linkedin.com/in/stshining/
+  orcid:
+  pinterest:
+  soundcloud:
+  stackoverflow:
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
