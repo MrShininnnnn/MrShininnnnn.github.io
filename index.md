@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 ---
 # About Me
 My friends like to call me **Shining** which is the mandarin phonetic symbols of my Chinese name, rather than anything listed [here](https://en.wikipedia.org/wiki/Shining). There are five letters "n" at the end of my account name to avoid being used. This website is still in the building. I'm sorry for any inconvenience.
