@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "Coursework"
-permalink: /coursework/
+title: "Blog"
+permalink: /blog/
 ---
 Hello World!
