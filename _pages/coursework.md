@@ -3,13 +3,16 @@ layout: index
 title: "Coursework"
 permalink: /coursework/
 ---
+
 # Georgia Institute of Technology
+
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |CS6475|Computational Photography|Fall 2019|Irfan Essa|3|A|
 |CS7642|Reinforcement Learning|Fall 2019|Charles Isbell & Michael Littman|3|A|
 
 # Syracuse University
+
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |IST687|Introduction to Data Science|Fall 2018|Abdullah Awaysheh|3|A|
@@ -21,6 +24,7 @@ permalink: /coursework/
 |CIS554|Object Oriented Programming in C++|Winter 2019||3|TBD|
 
 # New York University
+
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |DESL1-GC-2017|ESL Reading and Writing|Fall 2016|Michael Natriello|0|P|
