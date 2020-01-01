@@ -18,6 +18,15 @@ center a{
   text-decoration: none;
 }
 
+li a:hover {
+  color: #9ddcff;
+}  
+
+li a{
+  color: #666666; 
+  text-decoration: none;
+}
+
 p {
   color: #666666;  
 }
@@ -61,4 +70,9 @@ li {
   text-align: right;
   width: 48%; 
   display: inline-block;
+}
+
+#text
+{
+  margin: 0;
 }
