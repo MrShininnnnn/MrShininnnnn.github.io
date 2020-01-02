@@ -21,7 +21,7 @@ permalink: /coursework/
 |IST718 (IST718)|Big Data Analytics (Advanced Information Analytics)|Summer 2019|Jonathan Fox|3|A|
 |IST652|Scripting for Data Analysis|Fall 2019|Debbie Landowski|3|A|
 |IST664|Natural Language Processing|Fall 2019|Nancy McCracken|3|A|
-|CIS554|Object Oriented Programming in C++|Winter 2019||3|TBD|
+|CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|TBD|
 
 # New York University
 
