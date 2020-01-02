@@ -12,6 +12,6 @@ permalink: /publications/
 
 # 2018
 1. **The Relationship of Academic Capital and Altmetrics: Effects of Elsevier Metrics on Mendeley Reader Count**
-      * **Ning Shi**
+      * **[Ning Shi](https://mrshininnnnn.github.io/)**
       * Advisors: [Farid Razzak](https://www.linkedin.com/in/farrazzak/) and [Thomas Christo](https://www.linkedin.com/in/thomas-christo-ph-d-3330922/)
       * A thesis submitted in partial fulfillment of the requirements for the degree Master of Science in Management and Systems at New York University
