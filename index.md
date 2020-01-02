@@ -10,8 +10,7 @@ I'm now preparing to apply for a PhD program in 2020 Fall. For any research oppo
 
 # Activities
 `12/29/2019` I created this homepage to record myself.  
-`12/17/2019` I got A for both _CS6475 Computational Photography_ and _CS7642 Reinforcement Learning_.  
-`12/17/2019` I got A for both _IST652 Scripting for Data Analysis_ and _IST 664 Natural Language Processing_.  
+`12/17/2019` I got A for _IST652 Scripting for Data Analysis_, _IST664 Natural Language Processing_, _CS6475 Computational Photography_ and _CS7642 Reinforcement Learning_.  
 `10/22/2019` I presented our work, _The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms_, with [Keran Zhao](https://www.linkedin.com/in/keran-zhao-65a2a07b/) at [2019 INFORMS Annual Meeting Seattle](http://meetings2.informs.org/wordpress/seattle2019/).  
 `09/17/2019` I got A for _IST718 Big Data Analytics_.  
 `06/18/2019` I got A for _IST736 Text Mining_.  
