@@ -10,10 +10,14 @@ I'm now preparing to apply for a PhD program in 2020 Fall. For any research oppo
 
 # Activities
 `12/29/2019` I created this homepage to record myself.  
-`12/20/2019` I got A for _IST652 Scripting for Data Analysis_.  
 `12/17/2019` I got A for both _CS6475 Computational Photography_ and _CS7642 Reinforcement Learning_.  
+`12/17/2019` I got A for both _IST652 Scripting for Data Analysis_ and _IST 664 Natural Language Processing_.  
 `10/22/2019` I presented our work, _The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms_, with [Keran Zhao](https://www.linkedin.com/in/keran-zhao-65a2a07b/) at [2019 INFORMS Annual Meeting Seattle](http://meetings2.informs.org/wordpress/seattle2019/).  
+`09/17/2019` I got A for _IST718 Big Data Analytics_.  
+`06/18/2019` I got A for _IST736 Text Mining_.  
+`03/26/2019` I got A for _IST707 Data Analytics_.  
 `02/14/2019` I was accepted by the M.S. in Computer Science at Georgia Tech.  
+`12/19/2018` I got A for _IST687 Introduction to Data Science_.  
 `12/04/2018` I received the admission offer to a Master's in Computer Science at UIUC.  
 `09/12/2018` I started working as a machine learning engineer at [Learnable](https://www.linkedin.com/company/learnable-ai/about/).  
 `09/05/2018` I was accepted by the M.S. in Applied Data Science at [Syracuse University iSchool](https://ischool.syr.edu/).  
