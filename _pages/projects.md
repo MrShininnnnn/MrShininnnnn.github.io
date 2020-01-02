@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 # Reinforcement Learning
-**Temporal Differences Learning**  
+**Temporal Differences Learning**  <a href="https://github.com/MrShininnnnn/Temporal-Differences-Learning"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
 > **Introduction**  
 > We reproduced the Figure 3, 4, 5 in Richard Sutton’s 1988 paper *[Learning to Predict by the Methods of Temporal Differences](https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/reference/Learning_to_Predict_by_the_Methods_of_Temporal_Differences.pdf)*. We furthered explored with some assumptions on sequence length and sample duplication.  
 > **Original Figures**  
