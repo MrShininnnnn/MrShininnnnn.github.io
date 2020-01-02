@@ -15,9 +15,15 @@ I'm now preparing to apply for a PhD program in 2020 Fall. For any research oppo
 `10/22/2019` I presented our work, _The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms_, with [Keran Zhao](https://www.linkedin.com/in/keran-zhao-65a2a07b/) at [2019 INFORMS Annual Meeting Seattle](http://meetings2.informs.org/wordpress/seattle2019/).  
 `02/14/2019` I was accepted by the M.S. in Computer Science at Georgia Tech.  
 `12/04/2018` I received the admission offer to a Master's in Computer Science at UIUC.  
-`09/12/2018` I started working as a machine learning engineer at Learnable.  
-`09/05/2018` I was accepted by the M.S. in Applied Data Science at Syracuse University iSchool.  
+`09/12/2018` I started working as a machine learning engineer at [Learnable](https://www.linkedin.com/company/learnable-ai/about/).  
+`09/05/2018` I was accepted by the M.S. in Applied Data Science at [Syracuse University iSchool](https://ischool.syr.edu/).  
 `07/15/2018` My Master's thesis, _The Relationship of Academic Capital and Altmetrics: Effects of Elsevier Metrics on Mendeley Reader Count_, was passed and authorized for the final hardbound submission.  
-`05/16/2018` I graduated with GPA 3.9/4.0 from New York University.  
+`05/16/2018` I graduated with GPA 3.9/4.0 from [New York University](https://www.nyu.edu).  
+`11/22/2017` I started working as an algorithm engineer intern at Pythagoras Investment Management LLC.  
 `01/06/2017` I was accepted by the certification program in Intelligent Systems at Columbia University.  
-`05/31/2017` I was accepted by the M.S. in Management and Systems at New York University.  
+`05/31/2016` I was accepted by the M.S. in Management and Systems at [New York University](https://www.nyu.edu).  
+`07/07/2014` I was promoted as a full-time project manager at China Net Cloud (Shanghai) Co., Ltd,.  
+`06/25/2014` I completed 4 years of undergraduate studies and officially graduated from [Donghua University](http://english.dhu.edu.cn/).  
+`03/03/2014` I started working as a project manager intern at China Net Cloud (Shanghai) Co., Ltd,.  
+`09/01/2010` I started my undergraduate studies at [Donghua University](http://english.dhu.edu.cn/).  
+`10/25/1991` I was born in Inner Mongolia, China.  
