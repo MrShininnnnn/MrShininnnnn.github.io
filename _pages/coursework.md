@@ -42,4 +42,3 @@ permalink: /coursework/
 |MASY1-GC-4000|Research Project: Thesis|Fall 2017|Thomas Christo|3|A|
 |MASY1-GC-1250|Project Management in The Information Age|Fall 2017|Tomas Villanueva|6|A-|
 |PRCC1-GC-3901|Internship|Spring 2018|Adele Chodorow|3|A|
-|MASY1-GC-1250|Capstone: Thesis|Summer 2018|Thomas Christo|0|P|
