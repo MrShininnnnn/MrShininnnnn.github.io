@@ -30,4 +30,4 @@ I'm now preparing to apply for a PhD program in 2020 Fall. For any research oppo
 `06/25/2014` I completed 4 years of undergraduate studies and officially graduated from [Donghua University](http://english.dhu.edu.cn/).  
 `03/03/2014` I started working as a project manager intern at China Net Cloud (Shanghai) Co., Ltd,.  
 `09/01/2010` I started my undergraduate studies at [Donghua University](http://english.dhu.edu.cn/).  
-`10/25/1991` I was born in Inner Mongolia, China.  
+`11/30/1991` I was born in Inner Mongolia, China.  
