@@ -10,6 +10,7 @@ permalink: /coursework/
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |CS6475|Computational Photography|Fall 2019|Irfan Essa|3|A|
 |CS7642|Reinforcement Learning|Fall 2019|Charles Isbell & Michael Littman|3|A|
+|CS6476|Computer Vision|Spring 2020|Irfan Essa|3|TBD|
 
 # Syracuse University
 
