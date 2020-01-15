@@ -17,8 +17,8 @@ permalink: /projects/
 2. **SARSA Frozen Lake** <a href="https://github.com/MrShininnnnn/SARSA-Frozen-Lake"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
 > **Introduction**  
 > We trained a SARSA agent to play the Frozen Lake game.
-> <p align="center"><img src="./img/frozen_lake_0.png" alt="Frozen Lake" width="300" /></p>
+> <p align="center"><img src="https://github.com/MrShininnnnn/SARSA-Frozen-Lake/blob/master/img/frozen_lake_0.png?raw=true" alt="Frozen Lake" width="300" /></p>
 > **Random Strategy**
-> <p align="center"><img src="./img/result_img_0.png" alt="Random Strategy" width="600" /></p>
+> <p align="center"><img src="https://github.com/MrShininnnnn/SARSA-Frozen-Lake/blob/master/img/result_img_0.png?raw=true" alt="Random Strategy" width="600" /></p>
 > **SARSA Agent**
-> <p align="center"><img src="./img/result_img_1.png" alt="SARSA Agent" width="600" /></p>
+> <p align="center"><img src="https://github.com/MrShininnnnn/SARSA-Frozen-Lake/blob/master/img/result_img_1.png?raw=true" alt="SARSA Agent" width="600" /></p>
