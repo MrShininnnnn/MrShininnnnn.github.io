@@ -10,6 +10,7 @@ I'm now preparing to apply for a PhD program in 2020 Fall. For any research oppo
 
 # Activities
 `01/17/2019` I submitted my research paper _Synonymous Generalization and Compositional Emphasis in Sequence-to-Sequence Recurrent Networks_ to [2020 ACL Student Research Workshop](https://sites.google.com/view/acl20studentresearchworkshop/home).
+`01/04/2019` I posted a note _Virtual Environments for Python_ on <a href="https://medium.com/@mrshininnnnn/virtual-environments-for-python-6ab3802fe87e?source=friends_link&sk=00e7ed84596c1f931069bc4bc7831349"> Medium <img src="/assets/images/medium-brands.svg" width="15px"></a>
 `12/29/2019` I created this homepage to record myself.  
 `12/17/2019` I got A for _IST652 Scripting for Data Analysis_, _IST664 Natural Language Processing_, _CS6475 Computational Photography_ and _CS7642 Reinforcement Learning_.  
 `10/22/2019` I presented our work, _The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms_, with [Keran Zhao](https://www.linkedin.com/in/keran-zhao-65a2a07b/) at [2019 INFORMS Annual Meeting Seattle](http://meetings2.informs.org/wordpress/seattle2019/).  
