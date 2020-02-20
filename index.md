@@ -4,12 +4,12 @@ layout: index
 # About Me
 My friends like to call me **Shining** which is the mandarin phonetic symbols of my Chinese name, rather than anything listed [here](https://en.wikipedia.org/wiki/Shining). There are often five letters "n" at the end of my account name, as well as the email address, to avoid being used. This website is still in the building. I'm sorry for any inconvenience.
 
-I'm a machine learning engineer at [Learnable](https://www.linkedin.com/company/learnable-ai/about/). I'm also a graduate student learning Applied Data Science in the [School of Information Studies](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu), as well as Computer Science in the [College of Computing](https://cc.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu). I received my M.S. in Management and Systems in the [School of Professional Studies](https://www.sps.nyu.edu/) at [New York University](https://www.nyu.edu), and my Bachelor's degree from [Donghua University](http://english.dhu.edu.cn/).
+I'm a machine learning engineer at [Learnable](https://www.linkedin.com/company/learnable-ai/about/) where I'm in charge of the NLP team and responsible for several researches and productions such as language modeling and semantic parsing. I'm also a graduate student learning Applied Data Science in the [School of Information Studies](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu), as well as Computer Science in the [College of Computing](https://cc.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu). I received my M.S. in Management and Systems in the [School of Professional Studies](https://www.sps.nyu.edu/) at [New York University](https://www.nyu.edu), and my Bachelor's degree from [Donghua University](http://english.dhu.edu.cn/).
 
-I'm now preparing to apply for a PhD program in 2020 Fall. For any research opportunity in the field of NLP and RL, please contact me. 
+For any research opportunity in the field of NLP and RL, please contact me. 
 
 # Activities
-`01/17/2019` I submitted my research paper _Synonymous Generalization and Compositional Emphasis in Sequence-to-Sequence Recurrent Networks_ to [2020 ACL Student Research Workshop](https://sites.google.com/view/acl20studentresearchworkshop/home).
+`01/17/2019` I submitted my research paper _Synonymous Generalization and Compositional Emphasis in Sequence-to-Sequence Recurrent Networks_.
 `01/04/2019` I posted a note _Virtual Environments for Python_ on <a href="https://medium.com/@mrshininnnnn/virtual-environments-for-python-6ab3802fe87e?source=friends_link&sk=00e7ed84596c1f931069bc4bc7831349"> Medium. <img src="/assets/images/medium-brands.svg" width="15px"></a>  
 `12/29/2019` I created this homepage to record myself.  
 `12/17/2019` I got A for _IST652 Scripting for Data Analysis_, _IST664 Natural Language Processing_, _CS6475 Computational Photography_ and _CS7642 Reinforcement Learning_.  
