@@ -19,7 +19,7 @@ For any research opportunity in the field of NLP and RL, please contact me.
 `03/26/2019` I got A for _IST707 Data Analytics_.  
 `02/14/2019` I was accepted by the M.S. in Computer Science at [Georgia Tech](https://www.gatech.edu).  
 `12/19/2018` I got A for _IST687 Introduction to Data Science_.  
-`12/04/2018` I received the admission offer to a Master's in Computer Science at UIUC.  
+`12/04/2018` I received the admission offer to the Master of Computer Science at UIUC.  
 `09/12/2018` I was promoted as a full-time machine learning engineer at [Learnable](https://www.linkedin.com/company/learnable-ai/about/).  
 `09/05/2018` I was accepted by the M.S. in Applied Data Science at [Syracuse University iSchool](https://ischool.syr.edu/).  
 `07/28/2018` I started working as a machine learning engineer intern at [Learnable](https://www.linkedin.com/company/learnable-ai/about/).  
