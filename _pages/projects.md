@@ -20,3 +20,11 @@ permalink: /projects/
 > <p align="center"><img src="https://github.com/MrShininnnnn/SARSA-Frozen-Lake/blob/master/img/frozen_lake_0.png?raw=true" alt="Frozen Lake" width="200" /></p>
 > **Random Strategy vs. SARSA Agent**
 > <p align="center"><img src="https://github.com/MrShininnnnn/SARSA-Frozen-Lake/blob/master/img/result_img_0.png?raw=true" alt="Random Strategy" width="300" /><img src="https://github.com/MrShininnnnn/SARSA-Frozen-Lake/blob/master/img/result_img_1.png?raw=true" alt="SARSA Agent" width="300" /></p>
+
+3. **DDQN Lunar Lander** <a href="https://github.com/MrShininnnnn/DDQN-Lunar-Lander"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
+> **Introduction**  
+> We reproduced a Double Deep Q-Network (DDQN) to earn more than +200 reward on average over 100 trials in the game [Lunar Lander](https://gym.openai.com/envs/LunarLander-v2/).
+> <p align="center"><img src="https://github.com/MrShininnnnn/DDQN-Lunar-Lander/blob/master/res/Lunar_Lander.gif?raw=true" alt="Lunar Lander"  width="320" /></p>
+> <p align="center">(https://gym.openai.com/envs/LunarLander-v2/)</p>
+> **Random Agent vs. Our DDQN Agent**
+> <p align="center"><img src="https://github.com/MrShininnnnn/DDQN-Lunar-Lander/blob/master/res/Random_Agent.gif?raw=true" alt="Random Agent" width="320" /><img src="https://github.com/MrShininnnnn/DDQN-Lunar-Lander/blob/master/res/DDQN_Agent.gif?raw=true" alt="DDQN Agent" width="320" /></p>
