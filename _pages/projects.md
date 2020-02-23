@@ -27,4 +27,4 @@ permalink: /projects/
 > <p align="center"><img src="https://github.com/MrShininnnnn/DDQN-Lunar-Lander/blob/master/res/Lunar_Lander.gif?raw=true" alt="Lunar Lander"  width="320" /></p>
 > <p align="center">(https://gym.openai.com/envs/LunarLander-v2/)</p>
 > **Random Agent vs. Our DDQN Agent**
-> <p align="center"><img src="https://github.com/MrShininnnnn/DDQN-Lunar-Lander/blob/master/res/Random_Agent.gif?raw=true" alt="Random Agent" width="320" /><img src="https://github.com/MrShininnnnn/DDQN-Lunar-Lander/blob/master/res/DDQN_Agent.gif?raw=true" alt="DDQN Agent" width="320" /></p>
+> <p align="center"><img src="https://github.com/MrShininnnnn/DDQN-Lunar-Lander/blob/master/res/Random_Agent.gif?raw=true" alt="Random Agent" width="320" /><img src="https://github.com/MrShininnnnn/DDQN-Lunar-Lander/blob/master/res/DDQN_Agent.gif?raw=true" alt="DDQN Agent" width="315" /></p>
