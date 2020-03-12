@@ -3,6 +3,19 @@ layout: projects
 title: "Projects"
 permalink: /projects/
 ---
+# Natural Language Processing
+1. **Colorful Extended Cleanup World** <a href="https://github.com/MrShininnnnn/CECW"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
+> **Introduction**
+> We published a benchmark, namely, Colorful Extended Cleanup World (CECW), to study synonymous generalization. We hope it can promote the research in related fields, as well as yours.
+> **Example Sequence Pairs**
+> |                       Command                       | Textual Expression |
+> |:----------------------------------------------------|:-------------------|
+> |                  go to the red room                 | F R                |
+> | go to the red room and then go to the blue room     | F & R F B          |
+> | go to red room but do not enter yellow room         | & F R G ! Y        |
+> | go through the red or blue room to the yellow room  | F &丨R B F Y       |
+> | push the chair from the red room into the blue room | F & R F X          |
+> | go to the red room move chair to the green room     | F & R F Z          |
 
 # Reinforcement Learning
 
