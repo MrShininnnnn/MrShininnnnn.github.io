@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 # Natural Language Processing
+
 1. **Colorful Extended Cleanup World** <a href="https://github.com/MrShininnnnn/CECW"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
 > **Introduction**
 > We published a benchmark, namely, Colorful Extended Cleanup World (CECW), to study synonymous generalization. We hope it can promote the research in related fields, as well as yours.
