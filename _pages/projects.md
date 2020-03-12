@@ -9,14 +9,7 @@ permalink: /projects/
 > **Introduction**
 > We published a benchmark, namely, Colorful Extended Cleanup World (CECW), to study synonymous generalization. We hope it can promote the research in related fields, as well as yours.
 > **Example Sequence Pairs**
-> |                       Command                       | Textual Expression |
-> |:----------------------------------------------------|:-------------------|
-> |                  go to the red room                 | F R                |
-> | go to the red room and then go to the blue room     | F & R F B          |
-> | go to red room but do not enter yellow room         | & F R G ! Y        |
-> | go through the red or blue room to the yellow room  | F &丨R B F Y       |
-> | push the chair from the red room into the blue room | F & R F X          |
-> | go to the red room move chair to the green room     | F & R F Z          |
+> <p align="center"><img src="https://raw.githubusercontent.com/MrShininnnnn/CECW/master/reference/CECW.png?raw=true" alt="CECW Examples" width="600" /></p>
 
 # Reinforcement Learning
 
@@ -24,9 +17,9 @@ permalink: /projects/
 > **Introduction**  
 > We reproduced the Figure 3, 4, 5 in Richard Sutton’s 1988 paper *[Learning to Predict by the Methods of Temporal Differences](https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/reference/Learning_to_Predict_by_the_Methods_of_Temporal_Differences.pdf)*. We furthered explored with some assumptions on sequence length and sample duplication.  
 > **Original Figures**  
-> <p align="center"><img src="https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/img/exp_2.png" alt="Original Figures" width="600" /></p>
+> <p align="center"><img src="https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/img/exp_2.png?raw=true" alt="Original Figures" width="600" /></p>
 > **Reproduced Figures**  
-> <p align="center"><img src="https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/img/figure_3.png" alt="Reproduced Figure 3" width="200" /> <img src="https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/img/figure_4.png" alt="Reproduced Figure 4" width="200" /> <img src="https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/img/figure_5.png" alt="Reproduced Figure 5" width="200" /></p>
+> <p align="center"><img src="https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/img/figure_3.png?raw=true" alt="Reproduced Figure 3" width="200" /> <img src="https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/img/figure_4.png?raw=true" alt="Reproduced Figure 4" width="200" /> <img src="https://github.com/MrShininnnnn/Temporal-Differences-Learning/raw/master/img/figure_5.png?raw=true" alt="Reproduced Figure 5" width="200" /></p>
 
 2. **SARSA Frozen Lake** <a href="https://github.com/MrShininnnnn/SARSA-Frozen-Lake"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
 > **Introduction**  
