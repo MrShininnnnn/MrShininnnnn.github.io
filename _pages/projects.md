@@ -7,7 +7,7 @@ permalink: /projects/
 
 1. **Colorful Extended Cleanup World** <a href="https://github.com/MrShininnnnn/CECW"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
 > **Introduction**
-> We published a benchmark, namely, Colorful Extended Cleanup World (CECW), to study synonymous generalization. We hope it can promote the research in related fields, as well as yours.
+> We published a benchmark, namely, Colorful Extended Cleanup World (CECW), to study synonymous generalization. We hope it can promote the research in related fields, as well as yours.  
 > **Example Sequence Pairs**
 > <p align="center"><img src="https://raw.githubusercontent.com/MrShininnnnn/CECW/master/reference/CECW.png?raw=true" alt="CECW Examples" width="600" /></p>
 
