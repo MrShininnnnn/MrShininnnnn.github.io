@@ -11,7 +11,7 @@ For any research opportunity in the field of NLP and RL, please contact me.
 # Activities
 `03/13/2020` I published the Colorful Extended Cleanup World (CECW) dataset, a benchmark to study synonymous generalization, on <a href="https://github.com/MrShininnnnn/CECW"> GitHub. <img src="/assets/images/github-alt-brands.svg" width="15px"></a>  
 `02/23/2020` I reproduced a Double Deep Q-Network (DDQN) to play the game [Lunar Lander](https://gym.openai.com/envs/LunarLander-v2/). Come to see its performance on <a href="https://github.com/MrShininnnnn/DDQN-Lunar-Lander"> GitHub. <img src="/assets/images/github-alt-brands.svg" width="15px"></a>  
-`01/17/2020` I submitted my research paper _Synonymous Generalization and Compositional Emphasis in Sequence-to-Sequence Recurrent Networks_.  
+`01/17/2020` I submitted my research paper _Synonymous Generalization in Sequence-to-Sequence Recurrent Networks_. [[arXiv]](https://arxiv.org/abs/2003.06658)  
 `01/04/2020` I posted a note _Virtual Environments for Python_ on <a href="https://medium.com/@mrshininnnnn/virtual-environments-for-python-6ab3802fe87e?source=friends_link&sk=00e7ed84596c1f931069bc4bc7831349"> Medium. <img src="/assets/images/medium-brands.svg" width="15px"></a>  
 `12/29/2019` I created this homepage to record myself.  
 `12/17/2019` I got A for _IST652 Scripting for Data Analysis_, _IST664 Natural Language Processing_, _CS6475 Computational Photography_ and _CS7642 Reinforcement Learning_.  

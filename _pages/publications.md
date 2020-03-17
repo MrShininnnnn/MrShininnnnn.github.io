@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 # 2020
-1. **Synonymous Generalization in Sequence-to-Sequence Recurrent Networks** <a href="https://github.com/MrShininnnnn/CECW"> [Data] <img src="/assets/images/github-alt-brands.svg" width="15px"></a>
+1. **Synonymous Generalization in Sequence-to-Sequence Recurrent Networks** <a href="https://github.com/MrShininnnnn/CECW"> [Data]<img src="/assets/images/github-alt-brands.svg" width="15px"></a> [[arXiv]](https://arxiv.org/abs/2003.06658)
       * **[Ning Shi](https://mrshininnnnn.github.io/)**
       * Submitted.
 
