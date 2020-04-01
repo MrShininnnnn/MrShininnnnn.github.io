@@ -11,6 +11,7 @@ permalink: /coursework/
 |CS6475|Computational Photography|Fall 2019|Irfan Essa|3|A|
 |CS7642|Reinforcement Learning|Fall 2019|Charles Isbell & Michael Littman|3|A|
 |CS6476|Computer Vision|Spring 2020|Irfan Essa|3|TBD|
+|TBD|TBD|Summer 2020|TBD|3|TBD|
 
 # Syracuse University
 
@@ -22,7 +23,8 @@ permalink: /coursework/
 |IST718 (IST718)|Big Data Analytics (Advanced Information Analytics)|Summer 2019|Jonathan Fox|3|A|
 |IST652|Scripting for Data Analysis|Fall 2019|Debbie Landowski|3|A|
 |IST664|Natural Language Processing|Fall 2019|Nancy McCracken|3|A|
-|CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|TBD|
+|CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|A|
+|TBD|TBD|Summer 2020|TBD|3|TBD|
 
 # New York University
 
