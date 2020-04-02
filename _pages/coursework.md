@@ -18,12 +18,12 @@ permalink: /coursework/
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |IST687|Introduction to Data Science|Fall 2018|Abdullah Awaysheh|3|A|
-|IST707 (IST565)|Data Analytics (Data Mining)|Winter 2018|Ami Gates|3|A|
+|IST707 (IST565)|Data Analytics (Data Mining)|Spring 2019|Ami Gates|3|A|
 |IST736|Text Mining|Spring 2019|Jeremy Bolton|3|A|
 |IST718 (IST718)|Big Data Analytics (Advanced Information Analytics)|Summer 2019|Jonathan Fox|3|A|
 |IST652|Scripting for Data Analysis|Fall 2019|Debbie Landowski|3|A|
 |IST664|Natural Language Processing|Fall 2019|Nancy McCracken|3|A|
-|CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|A|
+|CIS554|Object Oriented Programming in C++|Spring 2019|Jonathan S. Weissman|3|A|
 |TBD|TBD|Summer 2020|TBD|3|TBD|
 
 # New York University
