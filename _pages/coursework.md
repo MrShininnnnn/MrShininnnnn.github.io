@@ -25,7 +25,7 @@ permalink: /coursework/
 |IST652|Scripting for Data Analysis|Fall 2019|Debbie Landowski|3|A|
 |IST664|Natural Language Processing|Fall 2019|Nancy McCracken|3|A|
 |CIS554|Object Oriented Programming in C++|Spring 2019|Jonathan S. Weissman|3|A|
-|SCM702|Principles of Management Science|Summer 2020|TBD|3|TBD|
+|SCM702|Principles of Management Science|Summer 2020|Julie A Niederhoff|3|TBD|
 |TBD|TBD|Fall 2020|TBD|3|TBD|
 
 # New York University
