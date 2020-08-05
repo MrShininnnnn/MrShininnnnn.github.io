@@ -9,7 +9,7 @@ I'm a machine learning engineer at [Learnable](https://www.linkedin.com/company/
 For any research opportunity in the field of NLP and RL, please contact me. 
 
 # Activities
-`06/01/2020` I submitted the first paper of our lab to EMNLP 2020. 
+`06/01/2020` I submitted the first paper of our lab to EMNLP 2020.  
 `03/13/2020` I published the Colorful Extended Cleanup World (CECW) dataset, a benchmark to study synonymous generalization. <a href="https://github.com/MrShininnnnn/CECW"><img src="/assets/images/github-alt-brands.svg" width="15px"></a>  
 `02/23/2020` I reproduced a Double Deep Q-Network (DDQN) to play the game [Lunar Lander](https://gym.openai.com/envs/LunarLander-v2/). Come to see its performance on GitHub. <a href="https://github.com/MrShininnnnn/DDQN-Lunar-Lander"><img src="/assets/images/github-alt-brands.svg" width="15px"></a>  
 `01/17/2020` I submitted my research paper _Synonymous Generalization in Sequence-to-Sequence Recurrent Networks_. [[arXiv]](https://arxiv.org/abs/2003.06658)  
