@@ -10,7 +10,7 @@ For any research opportunity in the field of NLP and RL, please contact me.
 
 # Activities
 `09/15/2020` Our work _Recurrent Inference in Text Editing_ was accepted to appear in Findings of ACL: EMNLP 2020.  
-`10/22/2019` I presented our work, _The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms_, with [Keran Zhao](https://www.linkedin.com/in/keran-zhao-65a2a07b/) at [2019 INFORMS Annual Meeting Seattle](http://meetings2.informs.org/wordpress/seattle2019/).  
+`10/22/2019` I presented our work, _The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms_ at INFORMS Annual Meeting 2019.    
 `07/28/2018` I started working as a machine learning engineer at [Learnable](https://www.linkedin.com/company/learnable-ai/about/).  
 `07/15/2018` My Master's thesis, _The Relationship of Academic Capital and Altmetrics: Effects of Elsevier Metrics on Mendeley Reader Count_, was passed and authorized for the final hardbound submission.  
 `05/16/2018` I graduated from [New York University](https://www.nyu.edu).  
