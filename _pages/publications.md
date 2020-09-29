@@ -4,21 +4,21 @@ title: "Publications"
 permalink: /publications/
 ---
 # 2020
-2. **Recurrence in Text Editing** <a href="https://github.com/ShiningLab/Recurrent-Text-Editing"> [Code]<img src="/assets/images/github-alt-brands.svg" width="15px"></a> [[arXiv]](https://arxiv.org/abs/2009.12643)
-      * **[Ning Shi](https://mrshininnnnn.github.io/)**, Ziheng Zeng, Haotian Zhang, Yichen Gong
+2. **Recurrence in Text Editing** <a href="https://github.com/ShiningLab/Recurrent-Text-Editing"> <img src="/assets/images/github-alt-brands.svg" width="15px"> [Code] </a> [[arXiv]](https://arxiv.org/abs/2009.12643)
+      * **Ning Shi**, Ziheng Zeng, Haotian Zhang, Yichen Gong
       * Findings of ACL: Empirical Methods in Natural Language Processing (EMNLP) 2020.
 
-1. **Synonymous Generalization in Sequence-to-Sequence Recurrent Networks** <a href="https://github.com/MrShininnnnn/CECW"> [Data]<img src="/assets/images/github-alt-brands.svg" width="15px"></a> [[arXiv]](https://arxiv.org/abs/2003.06658)
-      * **[Ning Shi](https://mrshininnnnn.github.io/)**
+1. **Synonymous Generalization in Sequence-to-Sequence Recurrent Networks** <a href="https://github.com/MrShininnnnn/CECW"> <img src="/assets/images/github-alt-brands.svg" width="15px"> [Data] </a> [[arXiv]](https://arxiv.org/abs/2003.06658)
+      * **Ning Shi**
       * Submitted.
 
 # 2019
 1. **The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms**
-      * [Keran Zhao](https://www.linkedin.com/in/keran-zhao-65a2a07b/), [Yingda Lu](https://www.linkedin.com/in/yingda-lu-b4749512/), **[Ning Shi](https://mrshininnnnn.github.io/)**, [Yuheng Hu](https://yuhenghu.com/) 
+      * [Keran Zhao](https://www.linkedin.com/in/keran-zhao-65a2a07b/), [Yingda Lu](https://www.linkedin.com/in/yingda-lu-b4749512/), **Ning Shi**, [Yuheng Hu](https://yuhenghu.com/) 
       * Annual Meeting of the Institute for Operations Research and the Management Sciences (INFORMS), 2019.
 
 # 2018
 1. **The Relationship of Academic Capital and Altmetrics: Effects of Elsevier Metrics on Mendeley Reader Count**
-      * **[Ning Shi](https://mrshininnnnn.github.io/)**
+      * **Ning Shi**
       * Advisors: [Farid Razzak](https://www.linkedin.com/in/farrazzak/) and [Thomas Christo](https://www.linkedin.com/in/thomas-christo-ph-d-3330922/)
       * A thesis submitted in partial fulfillment of the requirements for the degree Master of Science in Management and Systems at New York University.
