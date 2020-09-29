@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 # 2020
-2. **Recurrence in Text Editing**
+2. **Recurrence in Text Editing** <a href="https://github.com/ShiningLab/Recurrent-Text-Editing"> [Code]<img src="/assets/images/github-alt-brands.svg" width="15px"></a> [[arXiv]](https://arxiv.org/abs/2009.12643)
       * **[Ning Shi](https://mrshininnnnn.github.io/)**, Ziheng Zeng, Haotian Zhang, Yichen Gong
       * Findings of ACL: Empirical Methods in Natural Language Processing (EMNLP) 2020.
 
