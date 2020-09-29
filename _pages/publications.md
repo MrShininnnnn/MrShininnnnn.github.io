@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 # 2020
 2. **Recurrence in Text Editing** <a href="https://github.com/ShiningLab/Recurrent-Text-Editing"> <img src="/assets/images/github-alt-brands.svg" width="15px"> [Code] </a> [[arXiv]](https://arxiv.org/abs/2009.12643)
-      * **Ning Shi**, Ziheng Zeng, Haotian Zhang, Yichen Gong
+      * **Ning Shi**, [Ziheng Zeng](https://www.linkedin.com/in/ziheng-zeng-60532a179/), [Haotian Zhang](https://www.linkedin.com/in/haotian01/), [Yichen Gong](https://www.linkedin.com/in/yichengong1/)
       * Findings of ACL: Empirical Methods in Natural Language Processing (EMNLP) 2020.
 
 1. **Synonymous Generalization in Sequence-to-Sequence Recurrent Networks** <a href="https://github.com/MrShininnnnn/CECW"> <img src="/assets/images/github-alt-brands.svg" width="15px"> [Data] </a> [[arXiv]](https://arxiv.org/abs/2003.06658)
