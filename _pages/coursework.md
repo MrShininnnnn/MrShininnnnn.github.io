@@ -13,6 +13,9 @@ permalink: /coursework/
 |CS6476|Computer Vision|Spring 2020|Irfan Essa|3|A|
 |CS7638|Robotics: AI Techniques|Summer 2020|Sebastian Thrun & Jay W. Summet|3|A|
 |CS6601|Artificial Intelligence|Fall 2020|Thomas Ploetz|3|TBD|
+|CS6515|Introduction to Graduate Algorithms|TBD|TBD|3|TBD|
+|CS7641|Machine Learning|TBD|TBD|3|TBD|
+|CS7643|Deep Learning|TBD|TBD|3|TBD|
 
 # Syracuse University
 
@@ -26,7 +29,7 @@ permalink: /coursework/
 |IST664|Natural Language Processing|Fall 2019|Nancy McCracken|3|A|
 |CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|A|
 |SCM702|Principles of Management Science|Summer 2020|Julie A Niederhoff|3|A|
-|IST659|Data Administration Concepts and Database Management|Fall 2020|Gary Krudys|3|TBD|
+|IST659|Data Administration Concepts and Database Management|Fall 2020|Gregory Block|3|TBD|
 
 # New York University
 
