@@ -7,7 +7,7 @@ permalink: /publications/
 1. [**Recurrence in Text Editing**](https://www.aclweb.org/anthology/2020.findings-emnlp.159)
       * **Ning Shi**, [Ziheng Zeng](https://www.linkedin.com/in/ziheng-zeng-60532a179/), [Haotian Zhang](https://www.linkedin.com/in/haotian01/), [Yichen Gong](https://www.linkedin.com/in/yichengong1/)
       * [Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings](https://www.aclweb.org/anthology/volumes/2020.findings-emnlp/)  
-      [[GitHub]](https://github.com/ShiningLab/Recurrent-Text-Editing) [[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.159.pdf) [[Slides]](/assets/slides/Recurrent_Inference_in_Text_Editing.pdf)
+      [[GitHub]](https://github.com/ShiningLab/Recurrent-Text-Editing) [[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.159.pdf) [[Slides]](/assets/slides/Recurrent_Inference_in_Text_Editing.pdf) [[Talk]](https://slideslive.com/38940648/recurrent-inference-in-text-editing)
 
 2. [**Synonymous Generalization in Sequence-to-Sequence Recurrent Networks**](https://arxiv.org/abs/2003.06658)
       * **Ning Shi**
