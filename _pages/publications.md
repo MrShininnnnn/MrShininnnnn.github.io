@@ -12,7 +12,7 @@ permalink: /publications/
 2. [**Synonymous Generalization in Sequence-to-Sequence Recurrent Networks**](https://arxiv.org/abs/2003.06658)
       * **Ning Shi**
       * Submitted  
-      [[GitHub]](https://github.com/MrShininnnnn/CECW) [[PDF]](https://arxiv.org/pdf/2003.06658.pdf)
+      [[GitHub]](https://github.com/MrShininnnnn/CECW) [[Paper]](https://arxiv.org/pdf/2003.06658.pdf)
 
 # 2019
 1. **The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms**
