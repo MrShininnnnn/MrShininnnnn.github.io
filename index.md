@@ -9,7 +9,7 @@ I'm a senior algorithm engineer at [Alibaba Group](https://s.alibaba.com) where 
 For any research opportunity in the field of NLP and RL, please feel free to contact me. 
 
 # News
-`11/12/2020` I joined [Alibaba Group](https://s.alibaba.com) as a senior algorithm engineer.  
+`11/19/2020` I joined [Alibaba Group](https://s.alibaba.com) as a senior algorithm engineer.  
 `09/15/2020` Our work [Recurrent Inference in Text Editing](https://arxiv.org/abs/2009.12643) was accepted to appear in [_Findings of EMNLP 2020_](https://2020.emnlp.org/papers/findings).  
 `10/22/2019` I presented our work The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms in [_INFORMS Annual Meeting 2019_](http://meetings2.informs.org/wordpress/seattle2019/).  
 `09/01/2019` I launched the Shining Lab in Shanghai to research on cutting edge innovation in AI.
