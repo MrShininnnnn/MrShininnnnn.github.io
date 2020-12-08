@@ -29,8 +29,8 @@ permalink: /coursework/
 |IST664|Natural Language Processing|Fall 2019|Nancy McCracken|3|A|
 |CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|A|
 |SCM702|Principles of Management Science|Summer 2020|Julie A Niederhoff|3|A|
-|IST659|Data Administration Concepts and Database Management|Fall 2020|Gregory Block|3|TBD|
-|IST722|Data Warehouse|Fall 2020|Humayun Khan|3|TBD|
+|IST659|Data Administration Concepts and Database Management|Fall 2020|Gregory Block|3|A|
+|IST722|Data Warehouse|Winter 2020|Humayun Khan|3|TBD|
 
 # New York University
 
