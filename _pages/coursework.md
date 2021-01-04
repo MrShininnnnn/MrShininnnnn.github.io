@@ -16,6 +16,7 @@ permalink: /coursework/
 |CS7641|Machine Learning|Spring 2021|Charles L. Isbell|3|TBD|
 |CS6515|Introduction to Graduate Algorithms|TBD|TBD|3|TBD|
 |CS7643|Deep Learning|TBD|TBD|3|TBD|
+|**GPA**|||||**4.000**|
 
 # Syracuse University
 
@@ -30,7 +31,8 @@ permalink: /coursework/
 |CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|A|
 |SCM702|Principles of Management Science|Summer 2020|Julie A Niederhoff|3|A|
 |IST659|Data Administration Concepts and Database Management|Fall 2020|Gregory Block|3|A|
-|IST722|Data Warehouse|Winter 2020|Humayun Khan|3|TBD|
+|IST722|Data Warehouse|Winter 2020|Humayun Khan|3|A|
+|**GPA**|||||**4.000**|
 
 # New York University
 
@@ -51,3 +53,4 @@ permalink: /coursework/
 |MASY1-GC-4000|Research Project: Thesis|Fall 2017|Thomas Christo|3|A|
 |MASY1-GC-1250|Project Management in The Information Age|Fall 2017|Tomas Villanueva|6|A-|
 |PRCC1-GC-3901|Internship|Spring 2018|Adele Chodorow|3|A|
+|**GPA**|||||**3.922**|
