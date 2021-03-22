@@ -41,7 +41,7 @@ permalink: /coursework/
 |DESL1-GC-2017|ESL Reading and Writing|Fall 2016|Michael Natriello|0|P|
 |DESL1-GC-2027|ESL Listening and Speaking|Fall 2016|Linda Cotero|0|P|
 |MASY1-GC-1200|Managing in a Global Economy|Fall 2016|Carlo Esidore|3|A|
-|MASY1-GC-1240|Information Technology & Data|Fall 2016|George Pefanis|3|A|
+|MASY1-GC-1240|Information Technology & Data Analytics|Fall 2016|George Pefanis|3|A|
 |MASY1-GC-1230|Strategic Marketing|Spring 2017|Andrew Jedlicka|3|A|
 |MASY1-GC-3210|Systems Development & Analysis|Spring 2017|Samuel Sultan|3|A|
 |MASY1-GC-1220|Financial Management|Spring 2017|Lawrence Marciano|3|B+|
