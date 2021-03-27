@@ -3,6 +3,12 @@ layout: publications
 title: "Publications"
 permalink: /publications/
 ---
+# 2021
+1. **Incorporating External POS Tagger for Punctuation Restoration**
+      * **Ning Shi**, Wei Wang, Boxin Wang, Jinfeng Li, Xiangyu Liu, Zhouhan Lin
+      * Submitted  
+      [[GitHub]](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration)
+
 # 2020
 1. [**Recurrence in Text Editing**](https://www.aclweb.org/anthology/2020.findings-emnlp.159)
       * **Ning Shi**, [Ziheng Zeng](https://www.linkedin.com/in/ziheng-zeng-60532a179/), [Haotian Zhang](https://www.linkedin.com/in/haotian01/), [Yichen Gong](https://www.linkedin.com/in/yichengong1/)

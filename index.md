@@ -9,6 +9,7 @@ I'm a senior algorithm engineer at [Alibaba Group](https://s.alibaba.com) where 
 For any research opportunity in the field of NLP and RL, please feel free to contact me. 
 
 # News
+`03/26/2021` Our work [Incorporating External POS Tagger for Punctuation Restoration](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration) was submitted.  
 `03/18/2021` My son came into the world.  
 `11/19/2020` I joined [Alibaba Group](https://s.alibaba.com) as a senior algorithm engineer.  
 `10/24/2020` I was invited to present our work [Recurrent Inference in Text Editing](https://slideslive.com/38940648/recurrent-inference-in-text-editing) at the [_4th SPNLP 2020_](http://structuredprediction.github.io/SPNLP20).  
