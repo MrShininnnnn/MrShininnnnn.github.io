@@ -14,8 +14,8 @@ permalink: /coursework/
 |CS7638|Robotics: AI Techniques|Summer 2020|Sebastian Thrun & Jay W. Summet|3|A|
 |CS6601|Artificial Intelligence|Fall 2020|Thomas Ploetz|3|A|
 |CS7641|Machine Learning|Spring 2021|Charles L. Isbell|3|TBD|
+|CS7643|Deep Learning|Summer 2021|Zsolt Kira|3|TBD|
 |CS6515|Introduction to Graduate Algorithms|TBD|TBD|3|TBD|
-|CS7643|Deep Learning|TBD|TBD|3|TBD|
 |**GPA**|||||**4.000**|
 
 # Syracuse University
@@ -26,7 +26,7 @@ permalink: /coursework/
 |IST707 (IST565)|Data Analytics (Data Mining)|Winter 2019|Ami Gates|3|A|
 |IST736|Text Mining|Spring 2019|Jeremy Bolton|3|A|
 |IST718 (IST718)|Big Data Analytics (Advanced Information Analytics)|Summer 2019|Jonathan Fox|3|A|
-|IST652|Scripting for Data Analysis|Fall 2019|Debbie Landowski|3|A|
+|IST652|Scripting for Data Analysis|Fall 2019|Deborah Landowski|3|A|
 |IST664|Natural Language Processing|Fall 2019|Nancy McCracken|3|A|
 |CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|A|
 |SCM702|Principles of Management Science|Summer 2020|Julie A Niederhoff|3|A|
