@@ -9,11 +9,11 @@ I'm a senior algorithm engineer at [Alibaba Group](https://s.alibaba.com) where 
 Meanwhile, I hold a research group called Shining Lab where I'm advised by [Prof. Zhouhan Lin](https://hantek.github.io/). For any research opportunity in the field of NLP and RL, please feel free to contact me. 
 
 # News
+`06/02/2021` Our work [Incorporating External POS Tagger for Punctuation Restoration](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration) was accepted to appear in [_INTERSPEECH 2021_](https://www.interspeech2021.org/).  
 `05/12/2021` I graduated from [Syracuse University](https://www.syracuse.edu).  
-`03/26/2021` Our work [Incorporating External POS Tagger for Punctuation Restoration](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration) was submitted.  
 `03/18/2021` My son came into the world.  
 `11/19/2020` I joined [Alibaba Group](https://s.alibaba.com) as a senior algorithm engineer.  
-`10/24/2020` I was invited to present our work [Recurrent Inference in Text Editing](https://slideslive.com/38940648/recurrent-inference-in-text-editing) at the [_4th SPNLP 2020_](http://structuredprediction.github.io/SPNLP20).  
+`10/24/2020` I was invited to present our work [Recurrent Inference in Text Editing](https://slideslive.com/38940648/recurrent-inference-in-text-editing) at the [_Fourth SPNLP 2020_](http://structuredprediction.github.io/SPNLP20).  
 `09/15/2020` Our work [Recurrent Inference in Text Editing](https://www.aclweb.org/anthology/2020.findings-emnlp.159/) was accepted to appear in [_Findings of EMNLP 2020_](https://2020.emnlp.org/papers/findings).  
 `10/22/2019` I presented our work The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms in [_INFORMS Annual Meeting 2019_](http://meetings2.informs.org/wordpress/seattle2019/).  
 `09/01/2019` I launched the Shining Lab in Shanghai to research on cutting edge innovation in AI.
