@@ -7,15 +7,15 @@ permalink: /publications/
 # 2021
 **Incorporating External POS Tagger for Punctuation Restoration**  
 **Ning Shi**, Wei Wang, [Boxin Wang](https://wbx.life/), Jinfeng Li, Xiangyu Liu, and [Zhouhan Lin](https://hantek.github.io/).  
-[*Conference of the International Speech Communication Association (INTERSPEECH)*, 2021.](https://www.aclweb.org/anthology/volumes/2020.findings-emnlp/)  
-[[GitHub]](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration)[Paper]
+[*Conference of the International Speech Communication Association (INTERSPEECH)*, 2021.](https://www.interspeech2021.org/)  
+[[Paper]](https://arxiv.org/abs/2106.06731) [[GitHub]](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration)
 
 # 2020
 [**Recurrent Inference in Text Editing**](https://www.aclweb.org/anthology/2020.findings-emnlp.159)  
 **Ning Shi**, [Ziheng Zeng](https://www.linkedin.com/in/ziheng-zeng-60532a179/), [Haotian Zhang](https://www.linkedin.com/in/haotian01/), and [Yichen Gong](https://www.linkedin.com/in/yichengong1/).  
 [*Findings of Empirical Methods in Natural Language Processing (EMNLP Findings)*, 2020.](https://www.aclweb.org/anthology/volumes/2020.findings-emnlp/)  
 [*Fourth Workshop on Structured Prediction for NLP (SPNLP)*, 2020.](http://structuredprediction.github.io/SPNLP20)  
-[[GitHub]](https://github.com/ShiningLab/Recurrent-Text-Editing) [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.159.pdf) [[Slides]](/assets/slides/Recurrent_Inference_in_Text_Editing.pdf) [[Poster]](/assets/posters/Recurrent_Inference_in_Text_Editing.pdf) [[Talk]](https://slideslive.com/38940648/recurrent-inference-in-text-editing)
+[[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.159.pdf) [[GitHub]](https://github.com/ShiningLab/Recurrent-Text-Editing) [[Slides]](/assets/slides/Recurrent_Inference_in_Text_Editing.pdf) [[Poster]](/assets/posters/Recurrent_Inference_in_Text_Editing.pdf) [[Talk]](https://slideslive.com/38940648/recurrent-inference-in-text-editing)
 
 # 2019
 **The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms**  
