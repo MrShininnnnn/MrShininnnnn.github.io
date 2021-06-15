@@ -5,10 +5,10 @@ permalink: /publications/
 ---
 
 # 2021
-**Incorporating External POS Tagger for Punctuation Restoration**  
+[**Incorporating External POS Tagger for Punctuation Restoration**](https://arxiv.org/abs/2106.06731)  
 **Ning Shi**, Wei Wang, [Boxin Wang](https://wbx.life/), Jinfeng Li, Xiangyu Liu, and [Zhouhan Lin](https://hantek.github.io/).  
 [*Conference of the International Speech Communication Association (INTERSPEECH)*, 2021.](https://www.interspeech2021.org/)  
-[[Paper]](https://arxiv.org/abs/2106.06731) [[GitHub]](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration)
+[[Paper]](https://arxiv.org/pdf/2106.06731.pdf) [[GitHub]](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration)
 
 # 2020
 [**Recurrent Inference in Text Editing**](https://www.aclweb.org/anthology/2020.findings-emnlp.159)  
