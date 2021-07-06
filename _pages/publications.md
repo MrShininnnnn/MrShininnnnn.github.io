@@ -3,6 +3,14 @@ layout: publications
 title: "Publications"
 permalink: /publications/
 ---
+# In Progress
+**From SCAN to Real Data: Systematic Generalization via Inductive and Deductive Learning**  
+**Ning Shi**, [Boxin Wang](https://wbx.life/), Wei Wang, Xiangyu Liu, Rong Zhang, Hui Xue, [Xinbing Wang](https://iwct.sjtu.edu.cn/Personal/xwang8/index.html), and [Zhouhan Lin](https://hantek.github.io/).  
+Submitted.
+
+**Counterfactual Adversarial Learning with Representation Interpolation**  
+Wei Wang, [Boxin Wang](https://wbx.life/), **Ning Shi**, Jinfeng Li, Bingyu Zhu, Xiangyu Liu, and Rong Zhang.  
+Submitted.
 
 # 2021
 [**Incorporating External POS Tagger for Punctuation Restoration**](https://arxiv.org/abs/2106.06731)  

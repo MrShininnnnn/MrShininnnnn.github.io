@@ -11,7 +11,7 @@ Meanwhile, I hold a research group called Shining Lab where I'm advised by [Prof
 # News
 `06/02/2021` Our work [Incorporating External POS Tagger for Punctuation Restoration](https://arxiv.org/abs/2106.06731) was accepted to appear in [_INTERSPEECH 2021_](https://www.interspeech2021.org/).  
 `05/12/2021` I graduated from [Syracuse University](https://www.syracuse.edu).  
-`03/18/2021` My son came into the world.  
+`03/18/2021` My son Elio came into the world.  
 `11/19/2020` I joined [Alibaba Group](https://s.alibaba.com) as a senior algorithm engineer.  
 `10/24/2020` I was invited to present our work [Recurrent Inference in Text Editing](https://slideslive.com/38940648/recurrent-inference-in-text-editing) at the [_Fourth SPNLP 2020_](http://structuredprediction.github.io/SPNLP20).  
 `09/15/2020` Our work [Recurrent Inference in Text Editing](https://www.aclweb.org/anthology/2020.findings-emnlp.159/) was accepted to appear in [_Findings of EMNLP 2020_](https://2020.emnlp.org/papers/findings).  
