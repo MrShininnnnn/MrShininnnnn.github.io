@@ -14,7 +14,7 @@ permalink: /coursework/
 |CS7638|Robotics: AI Techniques|Summer 2020|Sebastian Thrun & Jay W. Summet|3|A|
 |CS6601|Artificial Intelligence|Fall 2020|Thomas Ploetz|3|A|
 |CS7641|Machine Learning|Spring 2021|Charles L. Isbell|3|A|
-|CS7643|Deep Learning|Summer 2021|Zsolt Kira|3|TBD|
+|CS7643|Deep Learning|Summer 2021|Zsolt Kira|3|A|
 |CS6515|Introduction to Graduate Algorithms|TBD|TBD|3|TBD|
 |**GPA**|||||**4.000**|
 
