@@ -4,15 +4,18 @@ title: "Publications"
 permalink: /publications/
 ---
 # In Progress
+**Reinforcement Learning in Text Editing**  
+**Ning Shi**, Jie Fu, Bo Yuan, Rong Zhang, Hui Xue, and [Zhouhan Lin](https://hantek.github.io/).  
+
 **From SCAN to Real Data: Systematic Generalization via Inductive and Deductive Learning**  
 **Ning Shi**, [Boxin Wang](https://wbx.life/), Wei Wang, Xiangyu Liu, Rong Zhang, Hui Xue, [Xinbing Wang](https://iwct.sjtu.edu.cn/Personal/xwang8/index.html), and [Zhouhan Lin](https://hantek.github.io/).  
 Submitted.
 
+# 2021
 **Counterfactual Adversarial Learning with Representation Interpolation**  
 Wei Wang, [Boxin Wang](https://wbx.life/), **Ning Shi**, Jinfeng Li, Bingyu Zhu, Xiangyu Liu, and Rong Zhang.  
-Submitted.
+[*Findings of Empirical Methods in Natural Language Processing (EMNLP Findings)*, 2021.](https://2021.emnlp.org/)  
 
-# 2021
 [**Incorporating External POS Tagger for Punctuation Restoration**](https://arxiv.org/abs/2106.06731)  
 **Ning Shi**, Wei Wang, [Boxin Wang](https://wbx.life/), Jinfeng Li, Xiangyu Liu, and [Zhouhan Lin](https://hantek.github.io/).  
 [*Conference of the International Speech Communication Association (INTERSPEECH)*, 2021.](https://www.interspeech2021.org/)  
