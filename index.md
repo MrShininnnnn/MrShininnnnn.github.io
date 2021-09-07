@@ -10,7 +10,7 @@ Meanwhile, I hold a research group called Shining Lab where I'm advised by [Prof
 
 # News
 `08/26/2021` Our work Counterfactual Adversarial Learning with Representation Interpolation was accepted to appear in  [_Findings of EMNLP 2021_](https://2021.emnlp.org/).  
-`06/02/2021` Our work [Incorporating External POS Tagger for Punctuation Restoration](https://arxiv.org/abs/2106.06731) was accepted to appear in [_INTERSPEECH 2021_](https://www.interspeech2021.org/).  
+`06/02/2021` Our work [Incorporating External POS Tagger for Punctuation Restoration](https://www.isca-speech.org/archive/interspeech_2021/shi21_interspeech.html) was accepted to appear in [_INTERSPEECH 2021_](https://www.interspeech2021.org/).  
 `05/12/2021` I graduated from [Syracuse University](https://www.syracuse.edu).  
 `03/18/2021` My son Elio came into the world.  
 `11/19/2020` I joined [Alibaba Group](https://s.alibaba.com) as a senior algorithm engineer.  

@@ -16,10 +16,10 @@ Submitted.
 Wei Wang, [Boxin Wang](https://wbx.life/), **Ning Shi**, Jinfeng Li, Bingyu Zhu, Xiangyu Liu, and Rong Zhang.  
 [*Findings of Empirical Methods in Natural Language Processing (EMNLP Findings)*, 2021.](https://2021.emnlp.org/)  
 
-[**Incorporating External POS Tagger for Punctuation Restoration**](https://arxiv.org/abs/2106.06731)  
+[**Incorporating External POS Tagger for Punctuation Restoration**](https://www.isca-speech.org/archive/interspeech_2021/shi21_interspeech.html)  
 **Ning Shi**, Wei Wang, [Boxin Wang](https://wbx.life/), Jinfeng Li, Xiangyu Liu, and [Zhouhan Lin](https://hantek.github.io/).  
 [*Conference of the International Speech Communication Association (INTERSPEECH)*, 2021.](https://www.interspeech2021.org/)  
-[[Paper]](https://arxiv.org/pdf/2106.06731.pdf) [[GitHub]](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration) [[Slides]](/assets/slides/Incorporating_External_POS_Tagger_for_Punctuation_Restoration.pdf) [[Poster]](/assets/posters/Incorporating_External_POS_Tagger_for_Punctuation_Restoration.pdf) [[Talk]](https://youtu.be/haBlCTBZ7H4)  
+[[Paper]](https://www.isca-speech.org/archive/pdfs/interspeech_2021/shi21_interspeech.pdf) [[GitHub]](https://github.com/ShiningLab/POS-Tagger-for-Punctuation-Restoration) [[Slides]](/assets/slides/Incorporating_External_POS_Tagger_for_Punctuation_Restoration.pdf) [[Poster]](/assets/posters/Incorporating_External_POS_Tagger_for_Punctuation_Restoration.pdf) [[Talk]](https://youtu.be/haBlCTBZ7H4)  
 
 # 2020
 [**Recurrent Inference in Text Editing**](https://www.aclweb.org/anthology/2020.findings-emnlp.159)  
