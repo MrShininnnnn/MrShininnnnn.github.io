@@ -12,9 +12,10 @@ permalink: /publications/
 Submitted.
 
 # 2021
-**Counterfactual Adversarial Learning with Representation Interpolation**  
+[**Counterfactual Adversarial Learning with Representation Interpolation**](https://arxiv.org/abs/2109.04746)  
 Wei Wang, [Boxin Wang](https://wbx.life/), **Ning Shi**, Jinfeng Li, Bingyu Zhu, Xiangyu Liu, and Rong Zhang.  
 [*Findings of Empirical Methods in Natural Language Processing (EMNLP Findings)*, 2021.](https://2021.emnlp.org/)  
+[[Paper]](https://arxiv.org/pdf/2109.04746.pdf)  
 
 [**Incorporating External POS Tagger for Punctuation Restoration**](https://www.isca-speech.org/archive/interspeech_2021/shi21_interspeech.html)  
 **Ning Shi**, Wei Wang, [Boxin Wang](https://wbx.life/), Jinfeng Li, Xiangyu Liu, and [Zhouhan Lin](https://hantek.github.io/).  
