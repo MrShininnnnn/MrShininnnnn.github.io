@@ -7,9 +7,10 @@ permalink: /publications/
 **Reinforcement Learning in Text Editing**  
 **Ning Shi**, Jie Fu, Bo Yuan, Rong Zhang, Hui Xue, and [Zhouhan Lin](https://hantek.github.io/).  
 
-**From SCAN to Real Data: Systematic Generalization via Inductive and Deductive Learning**  
+# arXiv
+[**From SCAN to Real Data: Systematic Generalization via Inductive and Deductive Learning**](https://arxiv.org/abs/2003.06658)  
 **Ning Shi**, [Boxin Wang](https://wbx.life/), Wei Wang, Xiangyu Liu, Rong Zhang, Hui Xue, [Xinbing Wang](https://iwct.sjtu.edu.cn/Personal/xwang8/index.html), and [Zhouhan Lin](https://hantek.github.io/).  
-Submitted.
+[[Paper]](https://arxiv.org/pdf/2003.06658.pdf)  
 
 # 2021
 [**Counterfactual Adversarial Learning with Representation Interpolation**](https://arxiv.org/abs/2109.04746)  
