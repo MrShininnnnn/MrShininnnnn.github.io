@@ -17,7 +17,7 @@ permalink: /coursework/
 |CS7643|Deep Learning|Summer 2021|Zsolt Kira|3|A|
 |CS7646|Machine Learning for Trading|Fall 2021|David A. Joyner & Josh Fox|3|A|
 |CS8001|OMSCS Seminar: Research Seminar|Fall 2021|David Joyner & Alex Duncan|1|P|
-|CS 7637|Knowledge-Based Artificial Intelligence|Spring 2022|David Joyner|3|TBD|
+|CS7637|Knowledge-Based Artificial Intelligence|Spring 2022|David Joyner|3|TBD|
 |CS6515|Introduction to Graduate Algorithms|Summer 2022|TBD|3|TBD|
 |**GPA**|||||**4.000**|
 
