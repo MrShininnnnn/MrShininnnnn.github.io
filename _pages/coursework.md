@@ -4,6 +4,8 @@ title: "Coursework"
 permalink: /coursework/
 ---
 
+# Fall 2022 Ph.D. Application in Progress
+
 # Georgia Institute of Technology
 
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
@@ -15,9 +17,9 @@ permalink: /coursework/
 |CS6601|Artificial Intelligence|Fall 2020|Thomas Ploetz|3|A|
 |CS7641|Machine Learning|Spring 2021|Charles L. Isbell|3|A|
 |CS7643|Deep Learning|Summer 2021|Zsolt Kira|3|A|
-|CS7646|Machine Learning for Trading|Fall 2021|David Joyner & Josh Fox|3|A|
-|CS8001|OMSCS Seminar: Research Seminar|Fall 2021|David Joyner & Alex Duncan|1|S|
-|CS7637|Knowledge-Based Artificial Intelligence|Spring 2022|David Joyner|3|TBD|
+|CS7646|Machine Learning for Trading|Fall 2021|David A. Joyner & Josh Fox|3|A|
+|CS8001|OMSCS Seminar: Research Seminar|Fall 2021|David A. Joyner & Alex Duncan|1|S|
+|CS7637|Knowledge-Based Artificial Intelligence|Spring 2022|David A. Joyner|3|TBD|
 |CS6515|Introduction to Graduate Algorithms|Summer 2022|TBD|3|TBD|
 |**GPA**|||||**4.000**|
 
@@ -32,7 +34,7 @@ permalink: /coursework/
 |IST652|Scripting for Data Analysis|Fall 2019|Deborah Landowski|3|A|
 |IST664|Natural Language Processing|Fall 2019|Nancy McCracken|3|A|
 |CIS554|Object Oriented Programming in C++|Winter 2019|Jonathan S. Weissman|3|A|
-|SCM702|Principles of Management Science|Summer 2020|Julie A Niederhoff|3|A|
+|SCM702|Principles of Management Science|Summer 2020|Julie A. Niederhoff|3|A|
 |IST659|Data Administration Concepts and Database Management|Fall 2020|Gregory Block|3|A|
 |IST722|Data Warehouse|Winter 2020|Humayun Khan|3|A|
 |**GPA**|||||**4.000**|
