@@ -13,13 +13,14 @@ permalink: /coursework/
 |CS6475|Computational Photography|Fall 2019|Irfan Essa|3|A|
 |CS7642|Reinforcement Learning|Fall 2019|Charles L. Isbell & Michael Littman|3|A|
 |CS6476|Computer Vision|Spring 2020|Irfan Essa|3|A|
-|CS7638|Robotics: AI Techniques|Summer 2020|Sebastian Thrun & Jay W. Summet|3|A|
+|CS7638|Robotics: Artificial Intelligence Techniques|Summer 2020|Sebastian Thrun & Jay W. Summet|3|A|
 |CS6601|Artificial Intelligence|Fall 2020|Thomas Ploetz|3|A|
 |CS7641|Machine Learning|Spring 2021|Charles L. Isbell|3|A|
 |CS7643|Deep Learning|Summer 2021|Zsolt Kira|3|A|
 |CS7646|Machine Learning for Trading|Fall 2021|David A. Joyner & Josh Fox|3|A|
 |CS8001|OMSCS Seminar: Research Seminar|Fall 2021|David A. Joyner & Alex Duncan|1|S|
 |CS7637|Knowledge-Based Artificial Intelligence|Spring 2022|David A. Joyner|3|TBD|
+|CS8001|OMSCS Seminar: Artificial Intelligence Reading Group|Spring 2022|David A. Joyner|1|TBD|
 |CS6515|Introduction to Graduate Algorithms|Summer 2022|TBD|3|TBD|
 |**GPA**|||||**4.000**|
 
