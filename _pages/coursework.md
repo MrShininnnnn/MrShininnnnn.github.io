@@ -21,7 +21,7 @@ permalink: /coursework/
 |CS8001|OMSCS Seminar: Research Seminar|Fall 2021|David A. Joyner|1|S|
 |CS7637|Knowledge-Based Artificial Intelligence|Spring 2022|David A. Joyner|3|TBD|
 |CS8001|OMSCS Seminar: Artificial Intelligence Reading Group|Spring 2022|David A. Joyner|1|TBD|
-|CS6515|Introduction to Graduate Algorithms|Summer 2022|TBD|3|TBD|
+|CS6515|Introduction to Graduate Algorithms|Spring 2022|Gerandy Brito|3|TBD|
 |**GPA**|||||**4.000**|
 
 # Syracuse University
