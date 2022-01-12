@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 ---
 # In Progress
-**Reinforcement Learning in Text Editing**  
-**Ning Shi**, Jie Fu, Bo Yuan, Rong Zhang, Hui Xue, and [Zhouhan Lin](https://hantek.github.io/).  
+**Reinforcement Learning in Textual Adversarial Attack**  
+**Ning Shi**, Qian Luo, Bingyu Zhu, Bo Yuan, Hui Xue, and [Zhouhan Lin](https://hantek.github.io/).  
+
+**Text Editing as Imitation Game**  
+**Ning Shi**, Bin Tang, Jie Fu, Yewen Pu, Bo Yuan, Hui Xue, and [Zhouhan Lin](https://hantek.github.io/).  
 
 # arXiv
 [**From SCAN to Real Data: Systematic Generalization via Meaningful Learning**](https://arxiv.org/abs/2003.06658)  
