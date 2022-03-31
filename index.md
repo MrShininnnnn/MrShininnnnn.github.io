@@ -6,7 +6,7 @@ I'm thrilled to announce that I will be leaving Turing Security Lab at [Alibaba 
 
 I'm a senior algorithm engineer at [Alibaba Group](https://s.alibaba.com) where I collaborate with the team to research on cutting edge innovation of NLP in security. Before that, I was a machine learning engineer at [Learnable](https://www.learnable.ai/#/) where I'm in charge of the NLP team and responsible for several productions and researches such as language modeling, semantic parsing, and text post-processing. I'm also a graduate student learning Computer Science in the [College of Computing](https://cc.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu). I received my M.S. degree in Applied Data Science from the [School of Information Studies](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu), a M.S. degree in Management and Systems from the [School of Professional Studies](https://www.sps.nyu.edu/) at [New York University](https://www.nyu.edu), and a B.S. degree in eCommerce from [Donghua University](http://english.dhu.edu.cn/).
 
-Meanwhile, I hold a research group called Shining Lab where I closely cooperate with with [Prof. Zhouhan Lin](https://hantek.github.io/). For any research opportunity in the field of RL in NLP, please feel free to contact me.
+Meanwhile, I hold a research group called Shining Lab where I closely cooperate with with Prof. [Zhouhan Lin](https://hantek.github.io/). For any research opportunity in the field of RL in NLP, please feel free to contact me.
 
 # News
 `04/01/2022` I accepted and will be joining the [University of Alberta](https://www.ualberta.ca/computing-science/index.html) as a Ph.D. student.  
