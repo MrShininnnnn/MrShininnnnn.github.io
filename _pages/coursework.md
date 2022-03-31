@@ -4,7 +4,9 @@ title: "Coursework"
 permalink: /coursework/
 ---
 
-# Fall 2022 Ph.D. Application in Progress
+# University of Alberta
+| Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
+|:-:|:-:|:-:|:-:|:-:|:-:|
 
 # Georgia Institute of Technology
 
@@ -19,7 +21,7 @@ permalink: /coursework/
 |CS7643|Deep Learning|Summer 2021|Zsolt Kira|3|A|
 |CS7646|Machine Learning for Trading|Fall 2021|David A. Joyner|3|A|
 |CS8001|OMSCS Seminar: Research Seminar|Fall 2021|David A. Joyner|1|S|
-|CS7637|Knowledge-Based Artificial Intelligence|Spring 2022|David A. Joyner|3|TBD|
+|CS7637|Knowledge-Based Artificial Intelligence|Spring 2022|David A. Joyner|3|A|
 |CS8001|OMSCS Seminar: Artificial Intelligence Reading Group|Spring 2022|David A. Joyner|1|TBD|
 |CS6515|Introduction to Graduate Algorithms|Spring 2022|Gerandy Brito|3|TBD|
 |**GPA**|||||**4.000**|
