@@ -5,8 +5,6 @@ permalink: /coursework/
 ---
 
 # University of Alberta
-| Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
-|:-:|:-:|:-:|:-:|:-:|:-:|
 
 # Georgia Institute of Technology
 
