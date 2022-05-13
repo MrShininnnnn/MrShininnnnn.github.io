@@ -16,12 +16,12 @@ Meanwhile, I hold a research group called Shining Lab where I closely cooperate 
 `05/12/2021` I graduated from [Syracuse University](https://www.syracuse.edu).  
 `03/18/2021` My son Liyi (Elio) Shi came into the world.  
 `11/19/2020` I joined [Alibaba Group](https://s.alibaba.com) as a senior algorithm engineer.  
-`10/24/2020` I was invited to present our work [_Recurrent Inference in Text Editing_](https://slideslive.com/38940648/recurrent-inference-in-text-editing) at the [Fourth SPNLP 2020](http://structuredprediction.github.io/SPNLP20).  
-`09/15/2020` Our work [Recurrent Inference in Text Editing](https://www.aclweb.org/anthology/2020.findings-emnlp.159/) was accepted to appear in [Findings of EMNLP 2020](https://2020.emnlp.org/papers/findings).  
+`10/24/2020` I presented our work [_Recurrent Inference in Text Editing_](https://slideslive.com/38940648/recurrent-inference-in-text-editing) at the [Fourth SPNLP 2020](http://structuredprediction.github.io/SPNLP20).  
+`09/15/2020` Our work [_Recurrent Inference in Text Editing_](https://www.aclweb.org/anthology/2020.findings-emnlp.159/) was accepted to appear in [Findings of EMNLP 2020](https://2020.emnlp.org/papers/findings).  
 `10/22/2019` I presented our work _The Impact of Emotion On Social Media Content Consumption: Evidence From Video Analysis On Live Streaming Platforms_ in [INFORMS Annual Meeting 2019](http://meetings2.informs.org/wordpress/seattle2019/).  
 `09/01/2019` I launched the Shining Lab in Shanghai to research on cutting edge innovation in AI.
 `07/28/2018` I started working as a machine learning engineer at [Learnable](https://www.learnable.ai/#/).  
-`07/15/2018` My Master's thesis, _The Relationship of Academic Capital and Altmetrics: Effects of Elsevier Metrics on Mendeley Reader Count_, was passed and authorized for the final hardbound submission.  
+`07/15/2018` My master's thesis, _The Relationship of Academic Capital and Altmetrics: Effects of Elsevier Metrics on Mendeley Reader Count_, was authorized for the final hardbound submission.  
 `05/16/2018` I graduated from [New York University](https://www.nyu.edu).  
 `06/25/2014` I graduated from [Donghua University](http://english.dhu.edu.cn/).  
 `03/03/2014` I started working as a project manager at China Net Cloud (Shanghai) Co., Ltd,.  
