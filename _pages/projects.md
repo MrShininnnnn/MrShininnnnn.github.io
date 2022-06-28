@@ -3,7 +3,7 @@ layout: projects
 title: "Projects"
 permalink: /projects/
 ---
-### Natural Language Processing
+# Natural Language Processing
 
 1. **Colorful Extended Cleanup World** <a href="https://github.com/MrShininnnnn/CECW"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
 > **Introduction**  
@@ -11,7 +11,7 @@ permalink: /projects/
 > **Example Sequence Pairs**  
 > <p align="center"><img src="https://raw.githubusercontent.com/MrShininnnnn/CECW/master/reference/CECW.png?raw=true" alt="CECW Examples" width="600" /></p>
 
-### Reinforcement Learning
+# Reinforcement Learning
 
 1. **Temporal Differences Learning**  <a href="https://github.com/MrShininnnnn/Temporal-Differences-Learning"><img src="/assets/images/github-alt-brands.svg" width="15px"> GitHub </a>
 > **Introduction**  
