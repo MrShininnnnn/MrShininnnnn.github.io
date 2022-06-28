@@ -4,9 +4,9 @@ title: "Coursework"
 permalink: /coursework/
 ---
 
-### University of Alberta
+# University of Alberta
 
-### Georgia Institute of Technology
+# Georgia Institute of Technology
 
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -24,7 +24,7 @@ permalink: /coursework/
 |CS6515|Introduction to Graduate Algorithms|Spring 2022|Gerandy Brito|3|A|
 |**GPA**|||||**4.000**|
 
-### Syracuse University
+# Syracuse University
 
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -40,7 +40,7 @@ permalink: /coursework/
 |IST722|Data Warehouse|Winter 2020|Humayun Khan|3|A|
 |**GPA**|||||**4.000**|
 
-### New York University
+# New York University
 
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
 |:-:|:-:|:-:|:-:|:-:|:-:|
