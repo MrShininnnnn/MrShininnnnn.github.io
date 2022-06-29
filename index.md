@@ -15,7 +15,7 @@ Meanwhile, I hold a research group called Shining Lab where I closely cooperate 
 `08/26/2021` One [paper](https://aclanthology.org/2021.findings-emnlp.413/) was accepted to appear in [Findings of EMNLP 2021](https://2021.emnlp.org/).  
 `06/02/2021` One [paper](https://www.isca-speech.org/archive/interspeech_2021/shi21_interspeech.html) was accepted to appear in [INTERSPEECH 2021](https://www.interspeech2021.org/).  
 `05/12/2021` I graduated from [Syracuse University](https://www.syracuse.edu).  
-`03/18/2021` My son Liyi (Elio) Shi came into the world.  
+`03/18/2021` My son Yili (Elio) Shi came into the world.  
 `11/19/2020` I joined [Alibaba Group](https://s.alibaba.com) as a senior algorithm engineer.  
 `10/24/2020` I presented our work [_Recurrent Inference in Text Editing_](https://slideslive.com/38940648/recurrent-inference-in-text-editing) at the [Fourth SPNLP 2020](http://structuredprediction.github.io/SPNLP20).  
 `09/15/2020` One [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.159/) was accepted to appear in [Findings of EMNLP 2020](https://2020.emnlp.org/papers/findings).  
