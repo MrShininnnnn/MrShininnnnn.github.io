@@ -6,6 +6,14 @@ permalink: /coursework/
 
 # University of Alberta
 
+| Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|CMPUT603|Teaching and Research Methods|Fall 2022|Denilson Barbosa|3|TBD|
+|CMPUT651|Deep Learning for NLP|Fall 2022|Lili Mou|3|TBD|
+|CMPUT655|Reinforcement Learning I|Fall 2022|Adam White|3|TBD|
+|CMPUT609|Reinforcement Learning II|Winter 2023|Richard S. Sutton|3|TBD|
+|**GPA**|||||**TBD**|
+
 # Georgia Institute of Technology
 
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
