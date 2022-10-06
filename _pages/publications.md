@@ -10,6 +10,13 @@ permalink: /publications/
 [[Paper]](https://arxiv.org/pdf/2003.06658.pdf)  
 
 # 2022
+**Text Editing as Imitation Game**  
+**Ning Shi**, Bin Tang, Bo Yuan, Longtao Huang, Yewen Pu, Jie Fu, and Zhouhan Lin  
+[*Findings of Empirical Methods in Natural Language Processing (EMNLP Findings)*, 2022.](https://2022.emnlp.org/)  
+
+**RoChBert: Towards Robust BERT Fine-tuning for Chinese**  
+Zihan Zhang, Jinfeng Li, **Ning Shi**, Bo Yuan, Xiangyu Liu, Rong Zhang, Hui Xue, Donghong Sun, and Chao Zhang  
+[*Findings of Empirical Methods in Natural Language Processing (EMNLP Findings)*, 2022.](https://2022.emnlp.org/)  
 
 # 2021
 [**Counterfactual Adversarial Learning with Representation Interpolation**](https://aclanthology.org/2021.findings-emnlp.413/)  
