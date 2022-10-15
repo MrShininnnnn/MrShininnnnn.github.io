@@ -10,6 +10,7 @@ I was a senior algorithm engineer at [Alibaba Group](https://s.alibaba.com), whe
 Meanwhile, I hold a research group called Shining Lab where I closely cooperate with Prof. [Zhouhan Lin](https://hantek.github.io/). For any research opportunity in the field of RL in NLP, please feel free to contact me.
 
 # News
+`10/11/2022` One paper was accepted to appear in the [Fifth BlackboxNLP 2022](https://blackboxnlp.github.io/).  
 `10/06/2022` Two papers were accepted to appear in [Findings of EMNLP 2022](https://2022.emnlp.org/).  
 `05/07/2022` I graduated from the [Georgia Institute of Technology](https://www.gatech.edu).  
 `04/01/2022` I accepted and will be joining the [University of Alberta](https://www.ualberta.ca/computing-science/index.html) as a Ph.D. student.  
