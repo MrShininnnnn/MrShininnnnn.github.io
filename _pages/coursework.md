@@ -8,11 +8,11 @@ permalink: /coursework/
 
 | Catalog Number | Title | Semester | Instructor | Credits | Final Grade |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|CMPUT603|Teaching and Research Methods|Fall 2022|Denilson Barbosa|3|TBD|
-|CMPUT651|Deep Learning for NLP|Fall 2022|Lili Mou|3|TBD|
-|CMPUT655|Reinforcement Learning I|Fall 2022|Adam White|3|TBD|
+|CMPUT603|Teaching and Research Methods|Fall 2022|Denilson Barbosa|3|CR|
+|CMPUT651|Deep Learning for NLP|Fall 2022|Lili Mou|3|A+|
+|CMPUT655|Reinforcement Learning I|Fall 2022|Adam White|3|A+|
 |CMPUT609|Reinforcement Learning II|Winter 2023|Richard S. Sutton|3|TBD|
-|**GPA**|||||**TBD**|
+|**GPA**|||||**4.000**|
 
 # Georgia Institute of Technology
 
