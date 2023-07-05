@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS, Ph.D. Student, RA, TA, UAlberta
+subtitle: TA, RA, Amii, CS, UAlberta
 
 profile:
   align: right
