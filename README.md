@@ -1,9 +1,9 @@
 # Personal Academic Site
 ## Introduction
-This project is for the [personal academic homepage](https://mrshininnnnn.github.io/).
+This project is for the [Shining Lab homepage](https://mrshininnnnn.github.io/).
 
 ## Authors
-* **[Ning Shi](https://mrshininnnnn.github.io/)** - MrShininnnnn@gmail.com 
+* Ning Shi - mrshininnnnn@gmail.com
 
 ## License
 
