@@ -28,34 +28,58 @@
     abstract="Large Language Models (LLMs) have demonstrated exceptional natural language understanding abilities and have excelled in a variety of natural language processing (NLP)tasks in recent years. Despite the fact that most LLMs are trained predominantly in English, multiple studies have demonstrated their comparative performance in many other languages. However, fundamental questions persist regarding how LLMs acquire their multi-lingual abilities and how performance varies across different languages. These inquiries are crucial for the study of LLMs since users and researchers often come from diverse language backgrounds, potentially influencing their utilization and interpretation of LLMs' results. In this work, we propose a systematic way of qualifying the performance disparities of LLMs under multilingual settings. We investigate the phenomenon of across-language generalizations in LLMs, wherein insufficient multi-lingual training data leads to advanced multi-lingual capabilities. To accomplish this, we employ a novel back-translation-based prompting method. The results show that GPT exhibits highly translating-like behaviour in multilingual settings."
 }
 
-@article{chen2023adversarial,
+@inproceedings{chen-etal-2023-adversarial,
     selected=false, 
-    abbr={arXiv}, 
+    abbr={ACL Findings}, 
     bibtex_show={true}, 
-    url={https://arxiv.org/abs/2305.18503}, 
-    pdf={https://arxiv.org/pdf/2305.18503.pdf}, 
+    pdf={https://aclanthology.org/2023.findings-acl.611.pdf}, 
     code={https://github.com/thunlp/RobTest}, 
-    title={From adversarial arms race to model-centric evaluation: Motivating a unified automatic robustness evaluation framework}, 
-    author={Chen, Yangyi and Gao, Hongcheng and Cui, Ganqu and Yuan, Lifan and Kong, Dehan and Wu, Hanlu and Shi, Ning and Yuan, Bo and Huang, Longtao and Xue, Hui and others}, 
-    journal={arXiv preprint arXiv:2305.18503}, 
-    year={2023}, 
-    abstract="Textual adversarial attacks can discover models' weaknesses by adding semantic-preserved but misleading perturbations to the inputs. The long-lasting adversarial attack-and-defense arms race in Natural Language Processing (NLP) is algorithm-centric, providing valuable techniques for automatic robustness evaluation. However, the existing practice of robustness evaluation may exhibit issues of incomprehensive evaluation, impractical evaluation protocol, and invalid adversarial samples. In this paper, we aim to set up a unified automatic robustness evaluation framework, shifting towards model-centric evaluation to further exploit the advantages of adversarial attacks. To address the above challenges, we first determine robustness evaluation dimensions based on model capabilities and specify the reasonable algorithm to generate adversarial samples for each dimension. Then we establish the evaluation protocol, including evaluation settings and metrics, under realistic demands. Finally, we use the perturbation degree of adversarial samples to control the sample validity. We implement a toolkit RobTest that realizes our automatic robustness evaluation framework. In our experiments, we conduct a robustness evaluation of RoBERTa models to demonstrate the effectiveness of our evaluation framework, and further show the rationality of each component in the framework. The code will be made public at \url{this https URL}."
+    title = "From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework",
+    author = "Chen, Yangyi  and
+      Gao, Hongcheng  and
+      Cui, Ganqu  and
+      Yuan, Lifan  and
+      Kong, Dehan  and
+      Wu, Hanlu  and
+      Shi, Ning  and
+      Yuan, Bo  and
+      Huang, Longtao  and
+      Xue, Hui  and
+      Liu, Zhiyuan  and
+      Sun, Maosong  and
+      Ji, Heng",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.611",
+    pages = "9607--9632",
+    abstract = "Textual adversarial attacks can discover models{'} weaknesses by adding semantic-preserved but misleading perturbations to the inputs. The long-lasting adversarial attack-and-defense arms race in Natural Language Processing (NLP) is algorithm-centric, providing valuable techniques for automatic robustness evaluation. However, the existing practice of robustness evaluation may exhibit issues of incomprehensive evaluation, impractical evaluation protocol, and invalid adversarial samples. In this paper, we aim to set up a unified automatic robustness evaluation framework, shifting towards model-centric evaluation to further exploit the advantages of adversarial attacks. To address the above challenges, we first determine robustness evaluation dimensions based on model capabilities and specify the reasonable algorithm to generate adversarial samples for each dimension. Then we establish the evaluation protocol, including evaluation settings and metrics, under realistic demands. Finally, we use the perturbation degree of adversarial samples to control the sample validity. We implement a toolkit \textbf{RobTest} that realizes our automatic robustness evaluation framework. In our experiments, we conduct a robustness evaluation of RoBERTa models to demonstrate the effectiveness of our evaluation framework, and further show the rationality of each component in the framework.",
 }
 
-@article{ogezi2023ualberta,
+@inproceedings{ogezi-etal-2023-ualberta,
     selected=false, 
-    abbr={arXiv}, 
+    abbr={SemEval}, 
     bibtex_show={true}, 
-    url={https://arxiv.org/abs/2306.14067}, 
-    pdf={https://arxiv.org/pdf/2306.14067.pdf}, 
+    pdf={https://aclanthology.org/2023.semeval-1.281.pdf}, 
     code={https://github.com/UAlberta-NLP/v-wsd}, 
     poster={UAlberta\ at\ SemEval\ 2023\ Task\ 1\ Context\ Augmentation\ and\ Translation\ for\ Visual\ WSD.pdf}, 
     slides={UAlberta\ at\ SemEval\ 2023\ Task\ 1\ Context\ Augmentation\ and\ Translation\ for\ Visual\ WSD.pdf}, 
-    title={UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation}, 
-    author={Ogezi, Michael and Hauer, Bradley and Omarov, Talgat and Shi, Ning and Kondrak, Grzegorz}, 
-    journal={arXiv preprint arXiv:2306.14067}, 
-    year={2023}, 
-    abstract="We describe the systems of the University of Alberta team for the SemEval-2023 Visual Word Sense Disambiguation (V-WSD) Task. We present a novel algorithm that leverages glosses retrieved from BabelNet, in combination with text and image encoders. Furthermore, we compare language-specific encoders against the application of English encoders to translated texts. As the contexts given in the task datasets are extremely short, we also experiment with augmenting these contexts with descriptions generated by a language model. This yields substantial improvements in accuracy. We describe and evaluate additional V-WSD methods which use image generation and text-conditioned image segmentation. Overall, the results of our official submission rank us 18 out of 56 teams. Some of our unofficial results are even better than the official ones. Our code is publicly available at this https URL."
+    title = "{UA}lberta at {S}em{E}val-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation",
+    author = "Ogezi, Michael  and
+      Hauer, Bradley  and
+      Omarov, Talgat  and
+      Shi, Ning  and
+      Kondrak, Grzegorz",
+    booktitle = "Proceedings of the The 17th International Workshop on Semantic Evaluation (SemEval-2023)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.semeval-1.281",
+    pages = "2043--2051",
+    abstract = "We describe the systems of the University of Alberta team for the SemEval-2023 Visual Word Sense Disambiguation (V-WSD) Task. We present a novel algorithm that leverages glosses retrieved from BabelNet, in combination with text and image encoders. Furthermore, we compare language-specific encoders against the application of English encoders to translated texts. As the contexts given in the task datasets are extremely short, we also experiment with augmenting these contexts with descriptions generated by a language model. This yields substantial improvements in accuracy. We describe and evaluate additional V-WSD methods which use image generation and text-conditioned image segmentation. Some of our experimental results exceed those of our official submissions on the test set. Our code is publicly available at https://github.com/UAlberta-NLP/v-wsd."
 }
 
 @inproceedings{zhang-etal-2023-bridging,
@@ -108,7 +132,7 @@
 
 @inproceedings{shi-etal-2022-text,
     selected=true, 
-    abbr={EMNLP}, 
+    abbr={EMNLP Findings}, 
     bibtex_show={true}, 
     url={https://aclanthology.org/2022.findings-emnlp.114/}, 
     pdf={https://aclanthology.org/2022.findings-emnlp.114.pdf}, 
@@ -135,7 +159,7 @@
 
 @inproceedings{zhang-etal-2022-rochbert,
     selected=false, 
-    abbr={EMNLP}, 
+    abbr={EMNLP Findings}, 
     bibtex_show={true}, 
     url={https://aclanthology.org/2022.findings-emnlp.256/}, 
     pdf={https://aclanthology.org/2022.findings-emnlp.256.pdf}, 
@@ -162,7 +186,7 @@
 
 @inproceedings{wang-etal-2021-counterfactual-adversarial,
     selected=false, 
-    abbr={EMNLP}, 
+    abbr={EMNLP Findings}, 
     bibtex_show={true}, 
     url={https://aclanthology.org/2021.findings-emnlp.413/}, 
     pdf={https://aclanthology.org/2021.findings-emnlp.413.pdf}, 
@@ -208,7 +232,7 @@
 
 @inproceedings{shi-etal-2020-recurrent,
     selected=true, 
-    abbr={EMNLP}, 
+    abbr={EMNLP Findings}, 
     bibtex_show={true}, 
     url={https://aclanthology.org/2020.findings-emnlp.159/}, 
     pdf={https://aclanthology.org/2020.findings-emnlp.159.pdf}, 

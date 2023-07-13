@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Amii, UAlberta CS
+subtitle: Ning Shi (石宁)
 
 profile:
   align: right
   image: shining.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <!-- <p>555 your office number</p> -->
-    <!-- <p>123 your address street</p> -->
+    <p>Amii, UAlberta CS</p>
     <p>Edmonton, Alberta, CA</p>
-
+    
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
