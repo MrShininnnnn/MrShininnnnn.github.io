@@ -6,7 +6,7 @@ subtitle: Ning Shi (石宁)
 
 profile:
   align: right
-  image: shining.jpg
+  image: shininglab.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Amii, UAlberta CS</p>
