@@ -1,6 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#d9534f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EMNLP Findings":
+  url: https://aclanthology.org/venues/findings/
+  color: "#f0ad4e"
+
+"ACL Findings":
+  url: https://aclanthology.org/venues/findings/
+  color: "#5bc0de"
+
+"EACL":
+  url: https://aclanthology.org/venues/eacl/
+  color: "#5cb85c"
+
+"SemEval":
+  url: https://aclanthology.org/venues/semeval/
+  color: "#9b59b6"
+
+"BlackboxNLP":
+  url: https://aclanthology.org/venues/blackboxnlp/
+  color: "#34495e"
+
+"INTERSPEECH":
+  url: https://www.isca-speech.org/iscaweb/
+  color: "#e74c3c"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#95a5a6"
