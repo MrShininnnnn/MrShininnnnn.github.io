@@ -1,31 +1,39 @@
 "EMNLP":
   url: https://aclanthology.org/venues/emnlp/
-  color: "#d9534f"
+  color: "#EA4335"
 
 "EMNLP Findings":
   url: https://aclanthology.org/venues/findings/
-  color: "#f0ad4e"
+  color: "#FBBC04"
+
+"ACL":
+  url: https://aclanthology.org/venues/acl/
+  color: "#1A73E8"
 
 "ACL Findings":
   url: https://aclanthology.org/venues/findings/
-  color: "#5bc0de"
+  color: "#4285F4"
 
 "EACL":
   url: https://aclanthology.org/venues/eacl/
-  color: "#5cb85c"
+  color: "#34A853"
 
 "SemEval":
   url: https://aclanthology.org/venues/semeval/
-  color: "#9b59b6"
+  color: "#9334E6"
 
 "BlackboxNLP":
   url: https://aclanthology.org/venues/blackboxnlp/
-  color: "#34495e"
+  color: "#5F6368"
 
 "INTERSPEECH":
   url: https://www.isca-speech.org/iscaweb/
-  color: "#e74c3c"
+  color: "#F439A0"
+
+"COLING":
+  url: https://aclanthology.org/venues/coling/
+  color: "#FF6D00"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#95a5a6"
+  color: "#80868B"
