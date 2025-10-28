@@ -12,7 +12,11 @@
 
 "ACL Findings":
   url: https://aclanthology.org/venues/findings/
-  color: "#4285F4"
+  color: "#1A73E8"
+
+"*SEM":
+  url: https://aclanthology.org/venues/starsem/
+  color: "#0B8043"
 
 "EACL":
   url: https://aclanthology.org/venues/eacl/

@@ -1,6 +1,111 @@
 ---
 ---
 
+@inproceedings{shi-etal-2024-lexical,
+    selected=true,
+    abbr={*SEM},
+    url={https://aclanthology.org/2024.starsem-1.10/},
+    pdf={https://aclanthology.org/2024.starsem-1.10.pdf},
+    code={https://github.com/ShiningLab/PromptSub},
+    title = "Lexical Substitution as Causal Language Modeling",
+    author = "Shi, Ning  and
+      Hauer, Bradley  and
+      Kondrak, Grzegorz",
+    editor = "Bollegala, Danushka  and
+      Shwartz, Vered",
+    booktitle = "Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2024.starsem-1.10",
+    pages = "120--132",
+    abstract = "Causal language models such as the GPT series have achieved significant success across various domains. However, their application to the lexical substitution task (LST) remains largely unexplored due to inherent limitations in autoregressive decoding. Our work is motivated by our observation that existing LST approaches tend to suffer from a misalignment between the pre-training objectives of the language models that they employ, and their subsequent fine-tuning and application for substitute generation. We introduce PromptSub, the first system to use causal language modeling (CLM) for LST. Through prompt-aware fine-tuning, PromptSub not only enriches the given context with additional knowledge, but also leverages the unidirectional nature of autoregressive decoding. PromptSub consistently outperforms GeneSis, the best previously published supervised LST method. Further analysis demonstrates the potential of PromptSub to further benefit from increased model capacity, expanded data resources, and retrieval of external knowledge. By framing LST within the paradigm of CLM, our approach indicates the versatility of general CLM-based systems, such as ChatGPT, in catering to specialized tasks, including LST."
+}
+
+@inproceedings{shi-etal-2024-ualberta,
+    selected=true,
+    abbr={SemEval},
+    url={https://aclanthology.org/2024.semeval-1.254/},
+    pdf={https://aclanthology.org/2024.semeval-1.254.pdf},
+    code={https://github.com/UAlberta-NLP/SemEval2024-STR},
+    title = "{UA}lberta at {S}em{E}val-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity",
+    author = "Shi, Ning  and
+      Li, Senyu  and
+      Luo, Guoqing  and
+      Mirzaei, Amirreza  and
+      Rafiei, Ali  and
+      Riley, Jai  and
+      Sheikhi, Hadi  and
+      Siavashpour, Mahvash  and
+      Tavakoli, Mohammad  and
+      Hauer, Bradley  and
+      Kondrak, Grzegorz",
+    editor = {Ojha, Atul Kr.  and
+      Do{\u{g}}ru{\"o}z, A. Seza  and
+      Tayyar Madabushi, Harish  and
+      Da San Martino, Giovanni  and
+      Rosenthal, Sara  and
+      Ros{\'a}, Aiala},
+    booktitle = "Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2024.semeval-1.254",
+    pages = "1798--1805",
+    abstract = "We describe our systems for SemEval-2024 Task 1: Semantic Textual Relatedness. We investigate the correlation between semantic relatedness and semantic similarity. Specifically, we test two hypotheses: (1) similarity is a special case of relatedness, and (2) semantic relatedness is preserved under translation. We experiment with a variety of approaches which are based on explicit semantics, downstream applications, contextual embeddings, large language models (LLMs), as well as ensembles of methods. We find empirical support for our theoretical insights. In addition, our best ensemble system yields highly competitive results in a number of diverse categories. Our code and data are available on GitHub."
+}
+
+@inproceedings{woudstra-etal-2024-identifying,
+    selected=false,
+    abbr={*SEM},
+    url={https://aclanthology.org/2024.starsem-1.12/},
+    pdf={https://aclanthology.org/2024.starsem-1.12.pdf},
+    code={https://github.com/UAlberta-NLP/SentiSynset},
+    title = "Identifying Emotional and Polar Concepts via Synset Translation",
+    author = "Woudstra, Logan  and
+      Dawodu, Moyo  and
+      Igwe, Frances  and
+      Li, Senyu  and
+      Shi, Ning  and
+      Hauer, Bradley  and
+      Kondrak, Grzegorz",
+    editor = "Bollegala, Danushka  and
+      Shwartz, Vered",
+    booktitle = "Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2024.starsem-1.12",
+    pages = "142--152",
+    abstract = "Emotion identification and polarity classification seek to determine the sentiment expressed by a writer. Sentiment lexicons that provide classifications at the word level fail to distinguish between different senses of polysemous words. To address this problem, we propose a translation-based method for labeling each individual lexical concept and word sense. Specifically, we translate synsets into 20 different languages and verify the sentiment of these translations in multilingual sentiment lexicons. By applying our method to all WordNet synsets, we produce SentiSynset, a synset-level sentiment resource containing 12,429 emotional synsets and 15,567 polar synsets, which is significantly larger than previous resources. Experimental evaluation shows that our method outperforms prior automated methods that classify word senses, in addition to outperforming ChatGPT. We make the resulting resource publicly available on GitHub."
+}
+
+@inproceedings{shi-etal-2024-paraphrase,
+    selected=true,
+    abbr={*SEM},
+    url={https://aclanthology.org/2024.starsem-1.11/},
+    pdf={https://aclanthology.org/2024.starsem-1.11.pdf},
+    code={https://github.com/ShiningLab/PI2NLI}, 
+    title = "Paraphrase Identification via Textual Inference",
+    author = "Shi, Ning  and
+      Hauer, Bradley  and
+      Riley, Jai  and
+      Kondrak, Grzegorz",
+    editor = "Bollegala, Danushka  and
+      Shwartz, Vered",
+    booktitle = "Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2024.starsem-1.11",
+    pages = "133--141",
+    abstract = "Paraphrase identification (PI) and natural language inference (NLI) are two important tasks in natural language processing. Despite their distinct objectives, an underlying connection exists, which has been notably under-explored in empirical investigations. We formalize the relationship between these semantic tasks and introduce a method for solving PI using an NLI system, including the adaptation of PI datasets for fine-tuning NLI models. Through extensive evaluations on six PI benchmarks, across both zero-shot and fine-tuned settings, we showcase the efficacy of NLI models for PI through our proposed reduction. Remarkably, our fine-tuning procedure enables NLI models to outperform dedicated PI models on PI datasets. In addition, our findings provide insights into the limitations of current PI benchmarks."
+}
+
 @inproceedings{li-etal-2024-translation,
     selected=false,
     abbr={ACL},
@@ -88,16 +193,17 @@
 }
 
 @article{zhang2024crossmodalconsistencymultimodallarge,
-      abbr={arXiv}, 
-      arxiv={2411.09273}, 
-      url={https://arxiv.org/abs/2411.09273}, 
-      pdf={https://arxiv.org/pdf/2411.09273.pdf},
-      code={https://github.com/wyattz23/Vision-Language-Consistency},
-      title={Cross-Modal Consistency in Multimodal Large Language Models}, 
-      author={Xiang Zhang and Senyu Li and Ning Shi and Bradley Hauer and Zijun Wu and Grzegorz Kondrak and Muhammad Abdul-Mageed and Laks V. S. Lakshmanan},
-      journal={arXiv preprint arXiv:2411.09273}, 
-      year={2024},
-      abstract="Recent developments in multimodal methodologies have marked the beginning of an exciting era for models adept at processing diverse data types, encompassing text, audio, and visual content. Models like GPT-4V, which merge computer vision with advanced language processing, exhibit extraordinary proficiency in handling intricate tasks that require a simultaneous understanding of both textual and visual information. Prior research efforts have meticulously evaluated the efficacy of these Vision Large Language Models (VLLMs) in various domains, including object detection, image captioning, and other related fields. However, existing analyses have often suffered from limitations, primarily centering on the isolated evaluation of each modality's performance while neglecting to explore their intricate cross-modal interactions. Specifically, the question of whether these models achieve the same level of accuracy when confronted with identical task instances across different modalities remains unanswered. In this study, we take the initiative to delve into the interaction and comparison among these modalities of interest by introducing a novel concept termed cross-modal consistency. Furthermore, we propose a quantitative evaluation framework founded on this concept. Our experimental findings, drawn from a curated collection of parallel vision-language datasets developed by us, unveil a pronounced inconsistency between the vision and language modalities within GPT-4V, despite its portrayal as a unified multimodal model. Our research yields insights into the appropriate utilization of such models and hints at potential avenues for enhancing their design."
+    selected=false,
+    abbr={arXiv}, 
+    arxiv={2411.09273}, 
+    url={https://arxiv.org/abs/2411.09273}, 
+    pdf={https://arxiv.org/pdf/2411.09273.pdf},
+    code={https://github.com/wyattz23/Vision-Language-Consistency},
+    title={Cross-Modal Consistency in Multimodal Large Language Models}, 
+    author={Xiang Zhang and Senyu Li and Ning Shi and Bradley Hauer and Zijun Wu and Grzegorz Kondrak and Muhammad Abdul-Mageed and Laks V. S. Lakshmanan},
+    journal={arXiv preprint arXiv:2411.09273}, 
+    year={2024},
+    abstract="Recent developments in multimodal methodologies have marked the beginning of an exciting era for models adept at processing diverse data types, encompassing text, audio, and visual content. Models like GPT-4V, which merge computer vision with advanced language processing, exhibit extraordinary proficiency in handling intricate tasks that require a simultaneous understanding of both textual and visual information. Prior research efforts have meticulously evaluated the efficacy of these Vision Large Language Models (VLLMs) in various domains, including object detection, image captioning, and other related fields. However, existing analyses have often suffered from limitations, primarily centering on the isolated evaluation of each modality's performance while neglecting to explore their intricate cross-modal interactions. Specifically, the question of whether these models achieve the same level of accuracy when confronted with identical task instances across different modalities remains unanswered. In this study, we take the initiative to delve into the interaction and comparison among these modalities of interest by introducing a novel concept termed cross-modal consistency. Furthermore, we propose a quantitative evaluation framework founded on this concept. Our experimental findings, drawn from a curated collection of parallel vision-language datasets developed by us, unveil a pronounced inconsistency between the vision and language modalities within GPT-4V, despite its portrayal as a unified multimodal model. Our research yields insights into the appropriate utilization of such models and hints at potential avenues for enhancing their design."
 }
 
 @article{wang2023interactive, 
@@ -115,11 +221,12 @@
 }
 
 @inproceedings{zhang-etal-2023-dont,
-    selected=true,
+    selected=false,
     abbr={EMNLP},
     arxiv={2305.16339},
     url={https://aclanthology.org/2023.emnlp-main.491/},
     pdf={https://aclanthology.org/2023.emnlp-main.491.pdf},
+    code={https://github.com/Senyu-Li/LLM-Multilingual-Types},
     title = "Don{'}t Trust {C}hat{GPT} when your Question is not in {E}nglish: A Study of Multilingual Abilities and Types of {LLM}s",
     author = "Zhang, Xiang  and
       Li, Senyu  and
