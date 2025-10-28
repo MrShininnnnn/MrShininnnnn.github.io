@@ -1,8 +1,21 @@
 ---
 ---
 
+@article{zhang2024crossmodalconsistencymultimodallarge,
+      abbr={arXiv}, 
+      arxiv={2411.09273}, 
+      url={https://arxiv.org/abs/2411.09273}, 
+      pdf={https://arxiv.org/pdf/2411.09273.pdf},
+      code={https://github.com/wyattz23/Vision-Language-Consistency},
+      title={Cross-Modal Consistency in Multimodal Large Language Models}, 
+      author={Xiang Zhang and Senyu Li and Ning Shi and Bradley Hauer and Zijun Wu and Grzegorz Kondrak and Muhammad Abdul-Mageed and Laks V. S. Lakshmanan},
+      journal={arXiv preprint arXiv:2411.09273}, 
+      year={2024},
+      abstract="Recent developments in multimodal methodologies have marked the beginning of an exciting era for models adept at processing diverse data types, encompassing text, audio, and visual content. Models like GPT-4V, which merge computer vision with advanced language processing, exhibit extraordinary proficiency in handling intricate tasks that require a simultaneous understanding of both textual and visual information. Prior research efforts have meticulously evaluated the efficacy of these Vision Large Language Models (VLLMs) in various domains, including object detection, image captioning, and other related fields. However, existing analyses have often suffered from limitations, primarily centering on the isolated evaluation of each modality's performance while neglecting to explore their intricate cross-modal interactions. Specifically, the question of whether these models achieve the same level of accuracy when confronted with identical task instances across different modalities remains unanswered. In this study, we take the initiative to delve into the interaction and comparison among these modalities of interest by introducing a novel concept termed cross-modal consistency. Furthermore, we propose a quantitative evaluation framework founded on this concept. Our experimental findings, drawn from a curated collection of parallel vision-language datasets developed by us, unveil a pronounced inconsistency between the vision and language modalities within GPT-4V, despite its portrayal as a unified multimodal model. Our research yields insights into the appropriate utilization of such models and hints at potential avenues for enhancing their design."
+}
+
 @article{wang2023interactive, 
-    selected=true, 
+    selected=false, 
     abbr={arXiv}, 
     arxiv={2305.13246}, 
     url={https://arxiv.org/abs/2305.13246}, 
@@ -15,17 +28,29 @@
     abstract="Interactive Natural Language Processing (iNLP) has emerged as a novel paradigm within the field of NLP, aimed at addressing limitations in existing frameworks while aligning with the ultimate goals of artificial intelligence. This paradigm considers language models as agents capable of observing, acting, and receiving feedback iteratively from external entities. Specifically, language models in this context can: (1) interact with humans for better understanding and addressing user needs, personalizing responses, aligning with human values, and improving the overall user experience; (2) interact with knowledge bases for enriching language representations with factual knowledge, enhancing the contextual relevance of responses, and dynamically leveraging external information to generate more accurate and informed responses; (3) interact with models and tools for effectively decomposing and addressing complex tasks, leveraging specialized expertise for specific subtasks, and fostering the simulation of social behaviors; and (4) interact with environments for learning grounded representations of language, and effectively tackling embodied tasks such as reasoning, planning, and decision-making in response to environmental observations. This paper offers a comprehensive survey of iNLP, starting by proposing a unified definition and framework of the concept. We then provide a systematic classification of iNLP, dissecting its various components, including interactive objects, interaction interfaces, and interaction methods. We proceed to delve into the evaluation methodologies used in the field, explore its diverse applications, scrutinize its ethical and safety issues, and discuss prospective research directions. This survey serves as an entry point for researchers who are interested in this rapidly evolving area and offers a broad view of the current landscape and future trajectory of iNLP."
 }
 
-@article{zhang2023don, 
-    selected=false, 
-    abbr={arXiv}, 
-    arxiv={2305.16339}, 
-    url={https://arxiv.org/abs/2305.16339}, 
-    pdf={https://arxiv.org/pdf/2305.16339.pdf}, 
-    title={Don't Trust GPT When Your Question Is Not In English}, 
-    author={Zhang, Xiang and Li, Senyu and Hauer, Bradley and Shi, Ning and Kondrak, Grzegorz}, 
-    journal={arXiv preprint arXiv:2305.16339}, 
-    year={2023}, 
-    abstract="Large Language Models (LLMs) have demonstrated exceptional natural language understanding abilities and have excelled in a variety of natural language processing (NLP)tasks in recent years. Despite the fact that most LLMs are trained predominantly in English, multiple studies have demonstrated their comparative performance in many other languages. However, fundamental questions persist regarding how LLMs acquire their multi-lingual abilities and how performance varies across different languages. These inquiries are crucial for the study of LLMs since users and researchers often come from diverse language backgrounds, potentially influencing their utilization and interpretation of LLMs' results. In this work, we propose a systematic way of qualifying the performance disparities of LLMs under multilingual settings. We investigate the phenomenon of across-language generalizations in LLMs, wherein insufficient multi-lingual training data leads to advanced multi-lingual capabilities. To accomplish this, we employ a novel back-translation-based prompting method. The results show that GPT exhibits highly translating-like behaviour in multilingual settings."
+@inproceedings{zhang-etal-2023-dont,
+    selected=true,
+    abbr={EMNLP},
+    arxiv={2305.16339},
+    url={https://aclanthology.org/2023.emnlp-main.491/},
+    pdf={https://aclanthology.org/2023.emnlp-main.491.pdf},
+    title = "Don{'}t Trust {C}hat{GPT} when your Question is not in {E}nglish: A Study of Multilingual Abilities and Types of {LLM}s",
+    author = "Zhang, Xiang  and
+      Li, Senyu  and
+      Hauer, Bradley  and
+      Shi, Ning  and
+      Kondrak, Grzegorz",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2023.emnlp-main.491",
+    pages = "7915--7927",
+    abstract = "Large language models (LLMs) have demonstrated exceptional natural language understanding abilities, and have excelled in a variety of natural language processing (NLP) tasks. Despite the fact that most LLMs are trained predominantly on English, multiple studies have demonstrated their capabilities in a variety of languages. However, fundamental questions persist regarding how LLMs acquire their multilingual abilities and how performance varies across different languages. These inquiries are crucial for the study of LLMs since users and researchers often come from diverse language backgrounds, potentially influencing how they use LLMs and interpret their output. In this work, we propose a systematic way of qualitatively and quantitatively evaluating the multilingual capabilities of LLMs. We investigate the phenomenon of cross-language generalization in LLMs, wherein limited multilingual training data leads to advanced multilingual capabilities. To accomplish this, we employ a novel prompt back-translation method. The results demonstrate that LLMs, such as GPT, can effectively transfer learned knowledge across different languages, yielding relatively consistent results in translation-equivariant tasks, in which the correct output does not depend on the language of the input. However, LLMs struggle to provide accurate results in translation-variant tasks, which lack this property, requiring careful user judgment to evaluate the answers."
 }
 
 @inproceedings{chen-etal-2023-adversarial,

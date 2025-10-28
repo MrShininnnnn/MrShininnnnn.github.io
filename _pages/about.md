@@ -18,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at the University of Alberta, associated with the Alberta Machine Intelligence Institute (Amii). Previously, I was a senior algorithm engineer at Alibaba Group, Alibaba Artificial Intelligence Governance Laboratory (AAIG).
+I am a Ph.D. candidate in Computing Science at the University of Alberta, supervised by Prof. Grzegorz Kondrak and affiliated with the Alberta Machine Intelligence Institute (Amii). Before my doctoral studies, I worked as a Senior Algorithm Engineer at the Alibaba Artificial Intelligence Governance Laboratory (AAIG). I hold master’s degrees from the Georgia Institute of Technology, Syracuse University, and New York University.
 
 My research interests lie in the broad area of computational linguistics, natural language processing, reinforcement learning, and their applications. In particular, from the perspective of human cognition, I am interested in the extent to which neural networks can do the same (or even better?) as humans to understand the world systematically.
 
-I hold a research group called Shining Lab where ideas shine! For any research opportunity or collaboration, please feel free to get in touch.
+I lead Shining Lab, where ideas shine ✨.
+For research collaborations or opportunities, please feel free to get in touch.
