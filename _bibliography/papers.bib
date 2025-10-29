@@ -1,6 +1,92 @@
 ---
 ---
 
+@inproceedings{shi-etal-2025-ualberta,
+    selected=true,
+    abbr={SemEval},
+    url={https://aclanthology.org/2025.semeval-1.224/},
+    pdf={https://aclanthology.org/2025.semeval-1.224.pdf},
+    code={https://github.com/UAlberta-NLP/SemEval2025-EAMT},
+    title = "{UA}lberta at {S}em{E}val-2025 Task 2: Prompting and Ensembling for Entity-Aware Translation",
+    author = "Shi, Ning  and
+      Basil, David  and
+      Hauer, Bradley  and
+      Nawal, Noshin  and
+      Riley, Jai  and
+      Teodorescu, Daniela  and
+      Zhang, John  and
+      Kondrak, Grzegorz",
+    editor = "Rosenthal, Sara  and
+      Ros{\'a}, Aiala  and
+      Ghosh, Debanjan  and
+      Zampieri, Marcos",
+    booktitle = "Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    pages = "1709--1717",
+    ISBN = "979-8-89176-273-2",
+    abstract = "We describe the methods used by our UAlberta team for the SemEval-2025 Task 2 on Entity-Aware Machine Translation (EA-MT). Our methods leverage large language models with prompt engineering strategies suited to this task, including retrieval augmented generation and in-context learning. Our best results overall are obtained with ensembles of multiple models, leveraging named entity knowledge in the dataset. Finally, we provide proof-of-concept experiments showing that lexico-semantic knowledge can be used to identify high-quality translations. We further demonstrate that our methods can function even without gold named entity translations, by using an alternative knowledge base such as BabelNet."
+}
+
+@inproceedings{riley-etal-2025-semi,
+    selected=false,
+    abbr={COLING},
+    url={https://aclanthology.org/2025.coling-main.419/},
+    pdf={https://aclanthology.org/2025.coling-main.419.pdf},
+    code={https://github.com/jai-riley/Sense-Projection},
+    title = "Semi-Automated Construction of Sense-Annotated Datasets for Practically Any Language",
+    author = "Riley, Jai  and
+      Hauer, Bradley  and
+      Hriti, Nafisa Sadaf  and
+      Luo, Guoqing  and
+      Mirzaei, Amirreza  and
+      Rafiei, Ali  and
+      Sheikhi, Hadi  and
+      Siavashpour, Mahvash  and
+      Tavakoli, Mohammad  and
+      Shi, Ning  and
+      Kondrak, Grzegorz",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    pages = "6270--6284",
+    abstract = "High-quality sense-annotated datasets are vital for evaluating and comparing WSD systems. We present a novel approach to creating parallel sense-annotated datasets, which can be applied to any language that English can be translated into. The method incorporates machine translation, word alignment, sense projection, and sense filtering to produce silver annotations, which can then be revised manually to obtain gold datasets. By applying our method to Farsi, Chinese, and Bengali, we produce new parallel benchmark datasets, which are vetted by native speakers of each language. Our automatically-generated silver datasets are of higher quality than the annotations obtained with recent multilingual WSD systems, particularly on non-European languages."
+}
+
+@inproceedings{li-etal-2024-translation,
+    selected=false,
+    abbr={ACL},
+    url={https://aclanthology.org/2024.acl-long.372/},
+    pdf={https://aclanthology.org/2024.acl-long.372.pdf},
+    code={https://github.com/UAlberta-NLP/KinshipAutoLex}, 
+    title = "Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms",
+    author = "Li, Senyu  and
+      Hauer, Bradley  and
+      Shi, Ning  and
+      Kondrak, Grzegorz",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2024.acl-long.372",
+    pages = "6891--6900",
+    abstract = "Constructing lexicons with explicitly identified lexical gaps is a vital part of building multilingual lexical resources. Prior work has leveraged bilingual dictionaries and linguistic typologies for semi-automatic identification of lexical gaps. Instead, we propose a generally-applicable algorithmic method to automatically generate concept lexicalizations, which is based on machine translation and hypernymy relations between concepts. The absence of a lexicalization implies a lexical gap. We apply our method to kinship terms, which make a suitable case study because of their explicit definitions and regular structure. Empirical evaluations demonstrate that our approach yields higher accuracy than BabelNet and ChatGPT. Our error analysis indicates that enhancing the quality of translations can further improve the accuracy of our method."
+}
+
 @inproceedings{shi-etal-2024-lexical,
     selected=true,
     abbr={*SEM},
@@ -106,119 +192,6 @@
     abstract = "Paraphrase identification (PI) and natural language inference (NLI) are two important tasks in natural language processing. Despite their distinct objectives, an underlying connection exists, which has been notably under-explored in empirical investigations. We formalize the relationship between these semantic tasks and introduce a method for solving PI using an NLI system, including the adaptation of PI datasets for fine-tuning NLI models. Through extensive evaluations on six PI benchmarks, across both zero-shot and fine-tuned settings, we showcase the efficacy of NLI models for PI through our proposed reduction. Remarkably, our fine-tuning procedure enables NLI models to outperform dedicated PI models on PI datasets. In addition, our findings provide insights into the limitations of current PI benchmarks."
 }
 
-@inproceedings{li-etal-2024-translation,
-    selected=false,
-    abbr={ACL},
-    url={https://aclanthology.org/2024.acl-long.372/},
-    pdf={https://aclanthology.org/2024.acl-long.372.pdf},
-    code={https://github.com/UAlberta-NLP/KinshipAutoLex}, 
-    title = "Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms",
-    author = "Li, Senyu  and
-      Hauer, Bradley  and
-      Shi, Ning  and
-      Kondrak, Grzegorz",
-    editor = "Ku, Lun-Wei  and
-      Martins, Andre  and
-      Srikumar, Vivek",
-    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    month = aug,
-    year = "2024",
-    address = "Bangkok, Thailand",
-    publisher = "Association for Computational Linguistics",
-    doi = "10.18653/v1/2024.acl-long.372",
-    pages = "6891--6900",
-    abstract = "Constructing lexicons with explicitly identified lexical gaps is a vital part of building multilingual lexical resources. Prior work has leveraged bilingual dictionaries and linguistic typologies for semi-automatic identification of lexical gaps. Instead, we propose a generally-applicable algorithmic method to automatically generate concept lexicalizations, which is based on machine translation and hypernymy relations between concepts. The absence of a lexicalization implies a lexical gap. We apply our method to kinship terms, which make a suitable case study because of their explicit definitions and regular structure. Empirical evaluations demonstrate that our approach yields higher accuracy than BabelNet and ChatGPT. Our error analysis indicates that enhancing the quality of translations can further improve the accuracy of our method."
-}
-
-@inproceedings{riley-etal-2025-semi,
-    selected=false,
-    abbr={COLING},
-    url={https://aclanthology.org/2025.coling-main.419/},
-    pdf={https://aclanthology.org/2025.coling-main.419.pdf},
-    code={https://github.com/jai-riley/Sense-Projection},
-    title = "Semi-Automated Construction of Sense-Annotated Datasets for Practically Any Language",
-    author = "Riley, Jai  and
-      Hauer, Bradley  and
-      Hriti, Nafisa Sadaf  and
-      Luo, Guoqing  and
-      Mirzaei, Amirreza  and
-      Rafiei, Ali  and
-      Sheikhi, Hadi  and
-      Siavashpour, Mahvash  and
-      Tavakoli, Mohammad  and
-      Shi, Ning  and
-      Kondrak, Grzegorz",
-    editor = "Rambow, Owen  and
-      Wanner, Leo  and
-      Apidianaki, Marianna  and
-      Al-Khalifa, Hend  and
-      Eugenio, Barbara Di  and
-      Schockaert, Steven",
-    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
-    month = jan,
-    year = "2025",
-    address = "Abu Dhabi, UAE",
-    publisher = "Association for Computational Linguistics",
-    pages = "6270--6284",
-    abstract = "High-quality sense-annotated datasets are vital for evaluating and comparing WSD systems. We present a novel approach to creating parallel sense-annotated datasets, which can be applied to any language that English can be translated into. The method incorporates machine translation, word alignment, sense projection, and sense filtering to produce silver annotations, which can then be revised manually to obtain gold datasets. By applying our method to Farsi, Chinese, and Bengali, we produce new parallel benchmark datasets, which are vetted by native speakers of each language. Our automatically-generated silver datasets are of higher quality than the annotations obtained with recent multilingual WSD systems, particularly on non-European languages."
-}
-
-@inproceedings{shi-etal-2025-ualberta,
-    selected=true,
-    abbr={SemEval},
-    url={https://aclanthology.org/2025.semeval-1.224/},
-    pdf={https://aclanthology.org/2025.semeval-1.224.pdf},
-    code={https://github.com/UAlberta-NLP/SemEval2025-EAMT},
-    title = "{UA}lberta at {S}em{E}val-2025 Task 2: Prompting and Ensembling for Entity-Aware Translation",
-    author = "Shi, Ning  and
-      Basil, David  and
-      Hauer, Bradley  and
-      Nawal, Noshin  and
-      Riley, Jai  and
-      Teodorescu, Daniela  and
-      Zhang, John  and
-      Kondrak, Grzegorz",
-    editor = "Rosenthal, Sara  and
-      Ros{\'a}, Aiala  and
-      Ghosh, Debanjan  and
-      Zampieri, Marcos",
-    booktitle = "Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025)",
-    month = jul,
-    year = "2025",
-    address = "Vienna, Austria",
-    publisher = "Association for Computational Linguistics",
-    pages = "1709--1717",
-    ISBN = "979-8-89176-273-2",
-    abstract = "We describe the methods used by our UAlberta team for the SemEval-2025 Task 2 on Entity-Aware Machine Translation (EA-MT). Our methods leverage large language models with prompt engineering strategies suited to this task, including retrieval augmented generation and in-context learning. Our best results overall are obtained with ensembles of multiple models, leveraging named entity knowledge in the dataset. Finally, we provide proof-of-concept experiments showing that lexico-semantic knowledge can be used to identify high-quality translations. We further demonstrate that our methods can function even without gold named entity translations, by using an alternative knowledge base such as BabelNet."
-}
-
-@article{zhang2024crossmodalconsistencymultimodallarge,
-    selected=false,
-    abbr={arXiv}, 
-    arxiv={2411.09273}, 
-    url={https://arxiv.org/abs/2411.09273}, 
-    pdf={https://arxiv.org/pdf/2411.09273.pdf},
-    code={https://github.com/wyattz23/Vision-Language-Consistency},
-    title={Cross-Modal Consistency in Multimodal Large Language Models}, 
-    author={Xiang Zhang and Senyu Li and Ning Shi and Bradley Hauer and Zijun Wu and Grzegorz Kondrak and Muhammad Abdul-Mageed and Laks V. S. Lakshmanan},
-    journal={arXiv preprint arXiv:2411.09273}, 
-    year={2024},
-    abstract="Recent developments in multimodal methodologies have marked the beginning of an exciting era for models adept at processing diverse data types, encompassing text, audio, and visual content. Models like GPT-4V, which merge computer vision with advanced language processing, exhibit extraordinary proficiency in handling intricate tasks that require a simultaneous understanding of both textual and visual information. Prior research efforts have meticulously evaluated the efficacy of these Vision Large Language Models (VLLMs) in various domains, including object detection, image captioning, and other related fields. However, existing analyses have often suffered from limitations, primarily centering on the isolated evaluation of each modality's performance while neglecting to explore their intricate cross-modal interactions. Specifically, the question of whether these models achieve the same level of accuracy when confronted with identical task instances across different modalities remains unanswered. In this study, we take the initiative to delve into the interaction and comparison among these modalities of interest by introducing a novel concept termed cross-modal consistency. Furthermore, we propose a quantitative evaluation framework founded on this concept. Our experimental findings, drawn from a curated collection of parallel vision-language datasets developed by us, unveil a pronounced inconsistency between the vision and language modalities within GPT-4V, despite its portrayal as a unified multimodal model. Our research yields insights into the appropriate utilization of such models and hints at potential avenues for enhancing their design."
-}
-
-@article{wang2023interactive, 
-    selected=false, 
-    abbr={arXiv}, 
-    arxiv={2305.13246}, 
-    url={https://arxiv.org/abs/2305.13246}, 
-    pdf={https://arxiv.org/pdf/2305.13246.pdf}, 
-    code={https://github.com/InteractiveNLP-Team/awesome-InteractiveNLP-papers}, 
-    title={Interactive natural language processing}, 
-    author={Wang, Zekun and Zhang, Ge and Yang, Kexin and Shi, Ning and Zhou, Wangchunshu and Hao, Shaochun and Xiong, Guangzheng and Li, Yizhi and Sim, Mong Yuan and Chen, Xiuying and others}, 
-    journal={arXiv preprint arXiv:2305.13246}, 
-    year={2023}, 
-    abstract="Interactive Natural Language Processing (iNLP) has emerged as a novel paradigm within the field of NLP, aimed at addressing limitations in existing frameworks while aligning with the ultimate goals of artificial intelligence. This paradigm considers language models as agents capable of observing, acting, and receiving feedback iteratively from external entities. Specifically, language models in this context can: (1) interact with humans for better understanding and addressing user needs, personalizing responses, aligning with human values, and improving the overall user experience; (2) interact with knowledge bases for enriching language representations with factual knowledge, enhancing the contextual relevance of responses, and dynamically leveraging external information to generate more accurate and informed responses; (3) interact with models and tools for effectively decomposing and addressing complex tasks, leveraging specialized expertise for specific subtasks, and fostering the simulation of social behaviors; and (4) interact with environments for learning grounded representations of language, and effectively tackling embodied tasks such as reasoning, planning, and decision-making in response to environmental observations. This paper offers a comprehensive survey of iNLP, starting by proposing a unified definition and framework of the concept. We then provide a systematic classification of iNLP, dissecting its various components, including interactive objects, interaction interfaces, and interaction methods. We proceed to delve into the evaluation methodologies used in the field, explore its diverse applications, scrutinize its ethical and safety issues, and discuss prospective research directions. This survey serves as an entry point for researchers who are interested in this rapidly evolving area and offers a broad view of the current landscape and future trajectory of iNLP."
-}
 
 @inproceedings{zhang-etal-2023-dont,
     selected=false,
@@ -244,6 +217,30 @@
     doi = "10.18653/v1/2023.emnlp-main.491",
     pages = "7915--7927",
     abstract = "Large language models (LLMs) have demonstrated exceptional natural language understanding abilities, and have excelled in a variety of natural language processing (NLP) tasks. Despite the fact that most LLMs are trained predominantly on English, multiple studies have demonstrated their capabilities in a variety of languages. However, fundamental questions persist regarding how LLMs acquire their multilingual abilities and how performance varies across different languages. These inquiries are crucial for the study of LLMs since users and researchers often come from diverse language backgrounds, potentially influencing how they use LLMs and interpret their output. In this work, we propose a systematic way of qualitatively and quantitatively evaluating the multilingual capabilities of LLMs. We investigate the phenomenon of cross-language generalization in LLMs, wherein limited multilingual training data leads to advanced multilingual capabilities. To accomplish this, we employ a novel prompt back-translation method. The results demonstrate that LLMs, such as GPT, can effectively transfer learned knowledge across different languages, yielding relatively consistent results in translation-equivariant tasks, in which the correct output does not depend on the language of the input. However, LLMs struggle to provide accurate results in translation-variant tasks, which lack this property, requiring careful user judgment to evaluate the answers."
+}
+
+@inproceedings{ogezi-etal-2023-ualberta,
+    selected=false, 
+    abbr={SemEval}, 
+    arxiv={2306.14067}, 
+    pdf={https://aclanthology.org/2023.semeval-1.281.pdf}, 
+    code={https://github.com/UAlberta-NLP/v-wsd}, 
+    poster={UAlberta\ at\ SemEval\ 2023\ Task\ 1\ Context\ Augmentation\ and\ Translation\ for\ Visual\ WSD.pdf}, 
+    slides={UAlberta\ at\ SemEval\ 2023\ Task\ 1\ Context\ Augmentation\ and\ Translation\ for\ Visual\ WSD.pdf}, 
+    title = "{UA}lberta at {S}em{E}val-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation",
+    author = "Ogezi, Michael  and
+      Hauer, Bradley  and
+      Omarov, Talgat  and
+      Shi, Ning  and
+      Kondrak, Grzegorz",
+    booktitle = "Proceedings of the The 17th International Workshop on Semantic Evaluation (SemEval-2023)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.semeval-1.281",
+    pages = "2043--2051",
+    abstract = "We describe the systems of the University of Alberta team for the SemEval-2023 Visual Word Sense Disambiguation (V-WSD) Task. We present a novel algorithm that leverages glosses retrieved from BabelNet, in combination with text and image encoders. Furthermore, we compare language-specific encoders against the application of English encoders to translated texts. As the contexts given in the task datasets are extremely short, we also experiment with augmenting these contexts with descriptions generated by a language model. This yields substantial improvements in accuracy. We describe and evaluate additional V-WSD methods which use image generation and text-conditioned image segmentation. Some of our experimental results exceed those of our official submissions on the test set. Our code is publicly available at https://github.com/UAlberta-NLP/v-wsd."
 }
 
 @inproceedings{chen-etal-2023-adversarial,
@@ -274,30 +271,6 @@
     url = "https://aclanthology.org/2023.findings-acl.611",
     pages = "9607--9632",
     abstract = "Textual adversarial attacks can discover models{'} weaknesses by adding semantic-preserved but misleading perturbations to the inputs. The long-lasting adversarial attack-and-defense arms race in Natural Language Processing (NLP) is algorithm-centric, providing valuable techniques for automatic robustness evaluation. However, the existing practice of robustness evaluation may exhibit issues of incomprehensive evaluation, impractical evaluation protocol, and invalid adversarial samples. In this paper, we aim to set up a unified automatic robustness evaluation framework, shifting towards model-centric evaluation to further exploit the advantages of adversarial attacks. To address the above challenges, we first determine robustness evaluation dimensions based on model capabilities and specify the reasonable algorithm to generate adversarial samples for each dimension. Then we establish the evaluation protocol, including evaluation settings and metrics, under realistic demands. Finally, we use the perturbation degree of adversarial samples to control the sample validity. We implement a toolkit \textbf{RobTest} that realizes our automatic robustness evaluation framework. In our experiments, we conduct a robustness evaluation of RoBERTa models to demonstrate the effectiveness of our evaluation framework, and further show the rationality of each component in the framework.",
-}
-
-@inproceedings{ogezi-etal-2023-ualberta,
-    selected=false, 
-    abbr={SemEval}, 
-    arxiv={2306.14067}, 
-    pdf={https://aclanthology.org/2023.semeval-1.281.pdf}, 
-    code={https://github.com/UAlberta-NLP/v-wsd}, 
-    poster={UAlberta\ at\ SemEval\ 2023\ Task\ 1\ Context\ Augmentation\ and\ Translation\ for\ Visual\ WSD.pdf}, 
-    slides={UAlberta\ at\ SemEval\ 2023\ Task\ 1\ Context\ Augmentation\ and\ Translation\ for\ Visual\ WSD.pdf}, 
-    title = "{UA}lberta at {S}em{E}val-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation",
-    author = "Ogezi, Michael  and
-      Hauer, Bradley  and
-      Omarov, Talgat  and
-      Shi, Ning  and
-      Kondrak, Grzegorz",
-    booktitle = "Proceedings of the The 17th International Workshop on Semantic Evaluation (SemEval-2023)",
-    month = jul,
-    year = "2023",
-    address = "Toronto, Canada",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.semeval-1.281",
-    pages = "2043--2051",
-    abstract = "We describe the systems of the University of Alberta team for the SemEval-2023 Visual Word Sense Disambiguation (V-WSD) Task. We present a novel algorithm that leverages glosses retrieved from BabelNet, in combination with text and image encoders. Furthermore, we compare language-specific encoders against the application of English encoders to translated texts. As the contexts given in the task datasets are extremely short, we also experiment with augmenting these contexts with descriptions generated by a language model. This yields substantial improvements in accuracy. We describe and evaluate additional V-WSD methods which use image generation and text-conditioned image segmentation. Some of our experimental results exceed those of our official submissions on the test set. Our code is publicly available at https://github.com/UAlberta-NLP/v-wsd."
 }
 
 @inproceedings{zhang-etal-2023-bridging,
