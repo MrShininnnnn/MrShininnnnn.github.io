@@ -51,6 +51,7 @@ Replace `_news/0.md` (a stub that just redirects visitors to the Google Sites pe
 Each entry becomes its own file at `_news/YYYY-MM-DD-slug.md` following al-folio convention (`layout: post`, `inline: true`, `related_posts: false`), one line of content each. Full list to import (title/date, condensed to a single descriptive line per entry):
 
 - 2019-09-01 — Launched Shining Lab
+- 2020-09-15 — Paper accepted to Findings of EMNLP 2020
 - 2021-06-02 — Paper accepted to Interspeech 2021
 - 2021-08-26 — Paper accepted to Findings of EMNLP 2021
 - 2022-10-06 — Two papers accepted to Findings of EMNLP 2022
