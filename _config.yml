@@ -381,6 +381,12 @@ bootstrap:
     js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 bootstrap-table:
   version: "1.21.4"
+  integrity:
+    css: "sha384-pTEAhytv7JmEG2D7qiW5gY0lI5EKZ9n3CNmj6Qp+U3qhnmH2qnnN9KJbVwbtMHN0"
+    js: "sha384-m0Zct3YnAlQqDs+76i8oByUMNq6M7JRZ9Kw47o6PeV4dWmopMq3FzFUyMkQY9pOR"
+imagesloaded:
+  version: "4.1.4"
+  integrity: "sha384-YnGSHPPWEUDKMHFPOVmNP7Xyfwx5G0CHet6IoNgiX6CbFZS8gCeIfEgB1MgPwjdI"
 fontawesome:
   version: "6.4.0"
   integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
@@ -389,6 +395,7 @@ jquery:
   integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
 mathjax:
   version: "3.2.0"
+  integrity: "sha384-+BSz3oj3ILMYvOBr16U9i0H4RZRmGyQQ+1q9eqr8T3skmAFrJk8GmgwgqlCZdNSo"
 masonry:
   version: "4.2.2"
   integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
