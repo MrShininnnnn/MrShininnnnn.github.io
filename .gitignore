@@ -9,5 +9,9 @@ _site
 Gemfile.lock
 vendor
 
-# Claude Code configuration
+# Local agent tooling / config (not part of the site)
 CLAUDE.md
+AGENTS.md
+.claude/
+.codex/
+docs/superpowers/
