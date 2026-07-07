@@ -26,7 +26,7 @@ The site's role has been clarified: this is the home of **Shining Lab**, distinc
 **Vendor `bootstrap-toc` locally.** It's currently loaded from `cdn.rawgit.com`, a CDN that shut down in 2019 — an abandoned/hijackable domain, the same risk class as the `polyfill.io` incident. Rather than swap to another CDN, vendor the two minified files (v1.0.1) into `assets/vendor/bootstrap-toc/bootstrap-toc.min.css` and `.min.js`, and point [_includes/head.html](_includes/head.html) and [_includes/scripts/misc.html](_includes/scripts/misc.html) at the local paths. This removes the third-party dependency for this small, unmaintained library entirely.
 
 **Add missing SRI integrity hashes** to script/link tags currently missing them:
-- `bootstrap-table` CSS link (in `_includes/head.html` or wherever it's declared)
+- `bootstrap-table` CSS link ([_includes/head.html:9](_includes/head.html#L9)) and JS ([_includes/scripts/misc.html:20](_includes/scripts/misc.html#L20)) — both currently load from `unpkg.com` with no integrity attribute. Re-pin both to a specific `bootstrap-table` version on jsDelivr (consistent with every other library in this theme) with SRI hashes for both files.
 - `imagesloaded` script (masonry companion, in the scripts includes)
 - MathJax script tag ([_includes/scripts/mathjax.html](_includes/scripts/mathjax.html))
 
@@ -70,7 +70,8 @@ Each entry becomes its own file at `_news/YYYY-MM-DD-slug.md` following al-folio
 - 2024-11-29 — Paper accepted to COLING 2025
 - 2024-12-06 — Received Alberta Graduate Excellence Scholarship (second time)
 - 2025-02-16 — Team achieved top rankings in the COMET track, SemEval 2025 Task 2
-- 2025-02-29 — Received 2025 Upper Bound Talent Bursary
+- 2025-01-31 — Received 2025 Upper Bound Talent Bursary (source date is invalid: Google Site news lists "02/29/2025", but 2025 is not a leap year; its own Awards section separately lists "Jan. 2025" for the same award — using that as the valid date)
+- 2024-09-03 — Received Computing Science Graduate Award for Parents
 - 2025-04-24 — Received 2025 Graduate Student Teaching Award
 - 2025-06-17 — Presented research at Tea Time Talk (RLAI)
 - 2025-07-10 — Shared research at Undergraduate CS Research Seminar
@@ -86,7 +87,13 @@ No config changes needed for display — `announcements.limit: 5` already keeps 
 
 ### 4. Projects content
 
-Replace the placeholder with 2–4 real entries reflecting Shining Lab's actual research focus (computational linguistics, NLP, reinforcement learning, multilingual systems, LLM analysis/evaluation), drawn from the author's stated research interests and recent publication themes (SemEval multilingual tasks, LLM evaluation). Descriptions will be short and directionally accurate; the author can refine specifics/links afterward.
+Replace the placeholder with 3 real entries reflecting Shining Lab's actual research focus, drawn from the author's stated research interests and recent publication/competition themes:
+
+1. **Slug:** `multilingual-nlp` — **Title:** Multilingual & Cross-Lingual NLP — **Category:** research — **Description draft:** Semantic and structural analysis across languages, including multilingual shared tasks (SemEval 2024/2025/2026 top placements across 16+ language/track settings).
+2. **Slug:** `llm-evaluation` — **Title:** LLM Analysis & Evaluation — **Category:** research — **Description draft:** Studying how large language models understand and process language relative to human cognition, including evaluation methodology (COMET-track ranking at SemEval 2025 Task 2).
+3. **Slug:** `computational-linguistics` — **Title:** Computational Linguistics & Reinforcement Learning — **Category:** research — **Description draft:** Applying reinforcement learning and cognitively-motivated approaches to core NLP problems, spanning work presented at ACL, EMNLP, EACL, and COLING.
+
+Each becomes `_projects/<slug>.md` with `importance` ordering 1–3 matching the list above. Descriptions are directional drafts; the author can refine wording/links afterward.
 
 ### 5. About page
 
