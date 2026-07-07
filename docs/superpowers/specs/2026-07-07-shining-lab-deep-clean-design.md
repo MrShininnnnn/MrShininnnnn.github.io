@@ -46,7 +46,7 @@ Delete unedited theme demo content, confirmed unreferenced elsewhere in the site
 
 ### 3. News content
 
-Replace `_news/0.md` (a stub that just redirects visitors to the Google Sites personal page) with individual news entries for **research/lab milestones only**, sourced from the Google Site's news feed. Personal life events (graduations, job changes, family) are excluded — this is the lab's public record, not a personal diary.
+Replace `_news/0.md` (a stub that just redirects visitors to the Google Sites personal page) with individual news entries for **lab research output only**, sourced from the Google Site's news feed. Excluded: personal life events (graduations, job changes, family), and individual/personal recognitions not tied to lab research output — scholarships, bursaries, teaching awards, poster awards, the graduate-parent award, and the candidacy exam milestone. Included: paper acceptances, competition/shared-task placements achieved by the lab's work, talks/seminars presenting lab research, the lab's founding, and the book.
 
 Each entry becomes its own file at `_news/YYYY-MM-DD-slug.md` following al-folio convention (`layout: post`, `inline: true`, `related_posts: false`), one line of content each. Full list to import (title/date, condensed to a single descriptive line per entry):
 
@@ -60,28 +60,22 @@ Each entry becomes its own file at `_news/YYYY-MM-DD-slug.md` following al-folio
 - 2023-05-01 — Paper accepted to Findings of ACL 2023
 - 2023-05-22 — Survey paper published
 - 2023-10-07 — Paper accepted to EMNLP 2023
-- 2023-11-29 — Received Alberta Graduate Excellence Scholarship
-- 2024-02-29 — Received 2024 Upper Bound Talent Bursary
 - 2024-03-19 — Team placed top-3 in 16 language/track settings at SemEval 2024
 - 2024-04-22 — Three papers accepted to *SEM 2024
 - 2024-05-15 — Paper accepted to ACL 2024
-- 2024-09-06 — Best Poster Award at Reverse EXPO
 - 2024-09-20 — Shared findings at Amii AI Seminar
 - 2024-11-29 — Paper accepted to COLING 2025
-- 2024-12-06 — Received Alberta Graduate Excellence Scholarship (second time)
 - 2025-02-16 — Team achieved top rankings in the COMET track, SemEval 2025 Task 2
-- 2025-01-31 — Received 2025 Upper Bound Talent Bursary (source date is invalid: Google Site news lists "02/29/2025", but 2025 is not a leap year; its own Awards section separately lists "Jan. 2025" for the same award — using that as the valid date)
-- 2024-09-03 — Received Computing Science Graduate Award for Parents
-- 2025-04-24 — Received 2025 Graduate Student Teaching Award
 - 2025-06-17 — Presented research at Tea Time Talk (RLAI)
 - 2025-07-10 — Shared research at Undergraduate CS Research Seminar
-- 2025-07-25 — Passed Ph.D. candidacy examination
 - 2025-08-20 — Paper accepted to EMNLP 2025
 - 2026-01-04 — Paper accepted to EACL 2026
 - 2026-03-03 — Team placed 2nd overall at SemEval-2026 Task 5
 - 2026-04-01 — Book published by Springer
 - 2026-04-08 — Paper accepted to Canadian AI 2026
 - 2026-07-04 — SemEval-2026 paper received Best Paper Award
+
+Excluded as personal/individual recognition (not lab research output): Alberta Graduate Excellence Scholarship (x2), Upper Bound Talent Bursary (x2, one with an invalid source date — 2025 entry lists "02/29/2025" which doesn't exist), Computing Science Graduate Award for Parents, Best Poster Award at Reverse EXPO, 2025 Graduate Student Teaching Award, Ph.D. candidacy exam.
 
 No config changes needed for display — `announcements.limit: 5` already keeps the homepage to the 5 most recent; the full set lives in `/news/`.
 
