@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Full publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=qaqVNMQAAAAJ){:target="_blank"}.
 nav: true
 nav_order: 1
