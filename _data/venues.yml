@@ -41,3 +41,7 @@
 "arXiv":
   url: https://arxiv.org/
   color: "#80868B"
+
+"Springer":
+  url: https://link.springer.com/
+  color: "#0F8A5F"
