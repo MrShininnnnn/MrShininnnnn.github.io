@@ -24,8 +24,8 @@ For research collaborations or opportunities, please feel free to get in touch.
 
 #### Advisors
 
-Shining Lab's work has benefited from collaboration with:
+We are grateful for the guidance of:
 
-- [Jie Fu](https://scholar.google.com/citations?user=66osleIAAAAJ&hl=en) — IQuest Research
 - [Zhouhan Lin (林洲汉)](https://scholar.google.com/citations?user=LNZ4efwAAAAJ&hl=en) — Shanghai Jiao Tong University
+- [Jie Fu](https://scholar.google.com/citations?user=66osleIAAAAJ&hl=en) — IQuest Research
 - [Yewen Pu](https://scholar.google.com/citations?user=LJnNKXMAAAAJ&hl=en) — Nanyang Technological University
