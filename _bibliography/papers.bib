@@ -1,6 +1,113 @@
 ---
 ---
 
+@inproceedings{basil-etal-2026-ualberta,
+    selected=true,
+    abbr={SemEval},
+    url={https://aclanthology.org/2026.semeval-1.340/},
+    pdf={https://aclanthology.org/2026.semeval-1.340.pdf},
+    title = "{UA}lberta at {S}em{E}val-2026 Task 5: Disambiguating Stories via Task Decomposition",
+    author = "Basil, David  and
+      Cho, Junhyeon  and
+      Girigowda, Chirooth  and
+      Luo, Guoqing  and
+      Momin, Sahir  and
+      Robinson, Sevryn  and
+      Shi, Ning  and
+      Kondrak, Grzegorz",
+    editor = "Kochmar, Ekaterina  and
+      Ghosh, Debanjan  and
+      North, Kai  and
+      Komachi, Mamoru",
+    booktitle = "Proceedings of the 20th International Workshop on Semantic Evaluation (2026)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, USA",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2026.semeval-1.340",
+    pages = "2697--2708",
+    ISBN = "979-8-89176-414-9",
+    abstract = "We describe our system for predicting sense plausibility in short narratives. Our approach centers on task decomposition: instead of predicting a score directly, we break the problem into simpler subtasks and combine their outputs. We further improve performance by ensembling complementary signals, including word sense disambiguation and fine-tuned embedding models. We also find empirical support for the one-homonym-per-translation principle of Hauer and Kondrak (2020a). Our best ensemble system achieves competitive performance in the official evaluation. Our code and data are available on GitHub."
+}
+
+@inproceedings{basil-etal-2026-generating,
+    selected=false,
+    abbr={Canadian AI},
+    title = "Generating Concept Lexicalizations via Dictionary-Based Cross-Lingual Sense Projection",
+    author = "Basil, David  and
+      Girigowda, Chirooth  and
+      Hauer, Bradley  and
+      Momin, Sahir  and
+      Shi, Ning  and
+      Kondrak, Grzegorz",
+    booktitle = "Proceedings of the 39th Canadian Conference on Artificial Intelligence",
+    year = "2026",
+    address = "Vancouver, Canada",
+}
+
+@inproceedings{shi-etal-2026-word,
+    selected=true,
+    abbr={EACL},
+    url={https://aclanthology.org/2026.eacl-long.211/},
+    pdf={https://aclanthology.org/2026.eacl-long.211.pdf},
+    title = "Word Surprisal Correlates with Sentential Contradiction in {LLM}s",
+    author = "Shi, Ning  and
+      Hauer, Bradley  and
+      Basil, David  and
+      Zhang, John  and
+      Kondrak, Grzegorz",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2026.eacl-long.211",
+    pages = "4549--4564",
+    ISBN = "979-8-89176-380-7",
+    abstract = "Large language models (LLMs) continue to achieve impressive performance on reasoning benchmarks, yet it remains unclear how their predictions capture semantic consistency between sentences. We investigate the important open question of whether word-level surprisal correlates with sentence-level contradiction between a premise and a hypothesis. Specifically, we compute surprisal for hypothesis words across a diverse set of experimental variants, and analyze its association with contradiction labels over multiple datasets and open-source LLMs. Because modern LLMs operate on subword tokens and can not directly produce reliable surprisal estimates, we introduce a token-to-word decoding algorithm that extends theoretically grounded probability estimation to open-vocabulary settings. Experiments show a consistent and statistically significant positive correlation between surprisal and contradiction across models and domains. Our analysis also provides new insights into the capabilities and limitations of current LLMs. Together, our findings suggest that surprisal can localize sentence-level inconsistency at the word level, establishing a quantitative link between lexical uncertainty and sentential semantics. We plan to release our code and data upon publication."
+}
+
+@inproceedings{wang-etal-2025-mio,
+    selected=false,
+    abbr={EMNLP},
+    url={https://aclanthology.org/2025.emnlp-main.255/},
+    pdf={https://aclanthology.org/2025.emnlp-main.255.pdf},
+    title = "{MIO}: A Foundation Model on Multimodal Tokens",
+    author = "Wang, Zekun Moore  and
+      Zhu, King  and
+      Xu, Chunpu  and
+      Zhou, Wangchunshu  and
+      Liu, Jiaheng  and
+      Zhang, Yibo  and
+      Wang, Jessie  and
+      Shi, Ning  and
+      Li, Siyu  and
+      Li, Yizhi  and
+      Que, Haoran  and
+      Zhang, Zhaoxiang  and
+      Zhang, Yuanxing  and
+      Zhang, Ge  and
+      Xu, Ke  and
+      Fu, Jie  and
+      Huang, Wenhao",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2025.emnlp-main.255",
+    pages = "5077--5099",
+    ISBN = "979-8-89176-332-6",
+    abstract = "In this paper, we introduce MIO, a novel foundation model built on multimodal tokens, capable of understanding and generating speech, text, images, and videos in an end-to-end, autoregressive manner. While the emergence of large language models (LLMs) and multimodal large language models (MM-LLMs) propels advancements in artificial general intelligence through their versatile capabilities, they still lack true any-to-any understanding and generation. Recently, the release of GPT-4o has showcased the remarkable potential of any-to-any LLMs for complex real-world tasks, enabling omnidirectional input and output across images, speech, and text. However, it is closed-source and does not support the generation of multimodal interleaved sequences. To address this gap, we present MIO, which is trained on a mixture of discrete tokens across four modalities using causal multimodal modeling. MIO undergoes a four-stage training process: (1) alignment pre-training, (2) interleaved pre-training, (3) speech-enhanced pre-training, and (4) comprehensive supervised fine-tuning on diverse textual, visual, and speech tasks. Our experimental results indicate that MIO exhibits competitive, and in some cases superior, performance compared to previous dual-modal baselines, any-to-any model baselines, and even modality-specific baselines. Moreover, MIO demonstrates advanced capabilities inherent to its any-to-any feature, such as interleaved video-text generation, chain-of-visual-thought reasoning, visual guideline generation, instructional image editing, etc."
+}
+
 @inproceedings{shi-etal-2025-ualberta,
     selected=true,
     abbr={SemEval},
