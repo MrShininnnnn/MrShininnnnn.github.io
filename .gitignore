@@ -11,7 +11,10 @@ Gemfile.lock
 
 # Local agent tooling / config (not part of the site)
 CLAUDE.md
+CLAUDE.local.md
 AGENTS.md
 .claude/
+.mcp.json
+.ctx/
 .codex/
 docs/superpowers/

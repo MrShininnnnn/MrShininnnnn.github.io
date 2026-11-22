@@ -199,6 +199,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - CLAUDE.md
+  - CLAUDE.local.md
+  - AGENTS.md
+  - docs/superpowers
 keep_files:
   - CNAME
   - .nojekyll
